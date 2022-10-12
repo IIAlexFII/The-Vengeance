@@ -1,0 +1,2447 @@
+fileFormatVersion: 2
+guid: 7703e0f08c4cda94dada762752056e8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7405204381967410945
+    second: kite_shield_0
+  - first:
+      213: -1556274398797170461
+    second: kite_shield_1
+  - first:
+      213: 6140275735382716100
+    second: kite_shield_2
+  - first:
+      213: 731588353664927967
+    second: kite_shield_3
+  - first:
+      213: 8882958380700412569
+    second: kite_shield_4
+  - first:
+      213: -3861874077264507603
+    second: kite_shield_5
+  - first:
+      213: 3684718853598538085
+    second: kite_shield_6
+  - first:
+      213: 7365224559166739158
+    second: kite_shield_7
+  - first:
+      213: -7843358551372284248
+    second: kite_shield_8
+  - first:
+      213: 4545955474406919225
+    second: kite_shield_9
+  - first:
+      213: 7089965329992119120
+    second: kite_shield_10
+  - first:
+      213: -2193058329989391922
+    second: kite_shield_11
+  - first:
+      213: 80461050991902329
+    second: kite_shield_12
+  - first:
+      213: 2849503838153771257
+    second: kite_shield_13
+  - first:
+      213: -743012596011215805
+    second: kite_shield_14
+  - first:
+      213: 594859209010966692
+    second: kite_shield_15
+  - first:
+      213: 2533713423381298175
+    second: kite_shield_16
+  - first:
+      213: -8453577554557790808
+    second: kite_shield_17
+  - first:
+      213: 3055798100541720355
+    second: kite_shield_18
+  - first:
+      213: 6087099638023646112
+    second: kite_shield_19
+  - first:
+      213: -4640630313609771562
+    second: kite_shield_20
+  - first:
+      213: 5103706468909699458
+    second: kite_shield_21
+  - first:
+      213: -7517955710956679862
+    second: kite_shield_22
+  - first:
+      213: -3965492329263313231
+    second: kite_shield_23
+  - first:
+      213: -2777533766356564058
+    second: kite_shield_24
+  - first:
+      213: 2732031153383144706
+    second: kite_shield_25
+  - first:
+      213: 881678766578741799
+    second: kite_shield_26
+  - first:
+      213: -2430851722336877589
+    second: kite_shield_27
+  - first:
+      213: -1050475103636748250
+    second: kite_shield_28
+  - first:
+      213: 8499598400688175107
+    second: kite_shield_29
+  - first:
+      213: 3625544578457080738
+    second: kite_shield_30
+  - first:
+      213: 3764972757648436920
+    second: kite_shield_31
+  - first:
+      213: 9071006610602618310
+    second: kite_shield_32
+  - first:
+      213: -5323131642482130772
+    second: kite_shield_33
+  - first:
+      213: 5114745946213952825
+    second: kite_shield_34
+  - first:
+      213: 7148218379440344577
+    second: kite_shield_35
+  - first:
+      213: -7667821880709071048
+    second: kite_shield_36
+  - first:
+      213: 6000377510543491414
+    second: kite_shield_37
+  - first:
+      213: -7688808211459672916
+    second: kite_shield_38
+  - first:
+      213: -1847580442850642038
+    second: kite_shield_39
+  - first:
+      213: 2385639055627114594
+    second: kite_shield_40
+  - first:
+      213: 4292959007592695175
+    second: kite_shield_41
+  - first:
+      213: 2874096266686987156
+    second: kite_shield_42
+  - first:
+      213: 8145322044288266161
+    second: kite_shield_43
+  - first:
+      213: 1440744497686364689
+    second: kite_shield_44
+  - first:
+      213: -8386859671042689228
+    second: kite_shield_45
+  - first:
+      213: 4658592219633358506
+    second: kite_shield_46
+  - first:
+      213: -8864229645829519006
+    second: kite_shield_47
+  - first:
+      213: 7579650865881256603
+    second: kite_shield_48
+  - first:
+      213: 5787565184275682764
+    second: kite_shield_49
+  - first:
+      213: 2408240553196581375
+    second: kite_shield_50
+  - first:
+      213: 25625279577451444
+    second: kite_shield_51
+  - first:
+      213: -4437582121589385685
+    second: kite_shield_52
+  - first:
+      213: 7055637585639302635
+    second: kite_shield_53
+  - first:
+      213: 1304313775222897253
+    second: kite_shield_54
+  - first:
+      213: 2893284552542431436
+    second: kite_shield_55
+  - first:
+      213: 3780837181315350669
+    second: kite_shield_56
+  - first:
+      213: 8098477100402741798
+    second: kite_shield_57
+  - first:
+      213: 3351733068848821102
+    second: kite_shield_58
+  - first:
+      213: -675664620290667122
+    second: kite_shield_59
+  - first:
+      213: 4311906783925891890
+    second: kite_shield_60
+  - first:
+      213: 3641860895619904907
+    second: kite_shield_61
+  - first:
+      213: 7221232552795263218
+    second: kite_shield_62
+  - first:
+      213: -1003586445353891324
+    second: kite_shield_63
+  - first:
+      213: 515857056090205952
+    second: kite_shield_64
+  - first:
+      213: -1902003687350238346
+    second: kite_shield_65
+  - first:
+      213: -7069329188233692729
+    second: kite_shield_66
+  - first:
+      213: -7714302769243142761
+    second: kite_shield_67
+  - first:
+      213: -1312597685258896122
+    second: kite_shield_68
+  - first:
+      213: -3752081491126763261
+    second: kite_shield_69
+  - first:
+      213: -6197877555202490639
+    second: kite_shield_70
+  - first:
+      213: 8528862385649677742
+    second: kite_shield_71
+  - first:
+      213: -5454063157564133564
+    second: kite_shield_72
+  - first:
+      213: 1006237989164293993
+    second: kite_shield_73
+  - first:
+      213: -6310318988384816848
+    second: kite_shield_74
+  - first:
+      213: -7832827427140065324
+    second: kite_shield_75
+  - first:
+      213: 3050974087478858919
+    second: kite_shield_76
+  - first:
+      213: -8626647956458541151
+    second: kite_shield_77
+  - first:
+      213: 2186210655898174603
+    second: kite_shield_78
+  - first:
+      213: -3729164575786086414
+    second: kite_shield_79
+  - first:
+      213: -2330124983862712689
+    second: kite_shield_80
+  - first:
+      213: 7169616886165041326
+    second: kite_shield_81
+  - first:
+      213: -3843696106151728757
+    second: kite_shield_82
+  - first:
+      213: -5798698556058023331
+    second: kite_shield_83
+  - first:
+      213: -1263455050676009830
+    second: kite_shield_84
+  - first:
+      213: 6334503284468480789
+    second: kite_shield_85
+  - first:
+      213: -1183554761334614548
+    second: kite_shield_86
+  - first:
+      213: 7900614768628610488
+    second: kite_shield_87
+  - first:
+      213: 3383957550049019184
+    second: kite_shield_88
+  - first:
+      213: 220426395154211490
+    second: kite_shield_89
+  - first:
+      213: -3132333276908610193
+    second: kite_shield_90
+  - first:
+      213: -7124577863578412387
+    second: kite_shield_91
+  - first:
+      213: 8176361887827169075
+    second: kite_shield_92
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kite_shield_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1033
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff89aab59dd6b3990800000000000000
+      internalID: -7405204381967410945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1032
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8f8a60ea0076ae0800000000000000
+      internalID: -1556274398797170461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1035
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceef6eaf34a63550800000000000000
+      internalID: 6140275735382716100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1041
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8c2064bbf172a00800000000000000
+      internalID: 731588353664927967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1044
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2a34559b964b70800000000000000
+      internalID: 8882958380700412569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1045
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d0c51ecfdd76ac0800000000000000
+      internalID: -3861874077264507603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1047
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569eced5640c22330800000000000000
+      internalID: 3684718853598538085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1043
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2dd14c6b8863660800000000000000
+      internalID: 7365224559166739158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1041
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aebe6314fac62390800000000000000
+      internalID: -7843358551372284248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 967
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c44c02b6a761f30800000000000000
+      internalID: 4545955474406919225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 968
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053f30447ed946260800000000000000
+      internalID: 7089965329992119120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 969
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec955457111b091e0800000000000000
+      internalID: -2193058329989391922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 969
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e70aa46eadd1100800000000000000
+      internalID: 80461050991902329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 969
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8844bb4a87b8720800000000000000
+      internalID: 2849503838153771257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 969
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3445c170bf940b5f0800000000000000
+      internalID: -743012596011215805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 969
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f7748c4d514800800000000000000
+      internalID: 594859209010966692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 969
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbf7433fee892320800000000000000
+      internalID: 2533713423381298175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 903
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a51e5bc00cdeaa80800000000000000
+      internalID: -8453577554557790808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 903
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3274a10ae20686a20800000000000000
+      internalID: 3055798100541720355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 904
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abeec4bed8b97450800000000000000
+      internalID: 6087099638023646112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 903
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5416f115b299fb0800000000000000
+      internalID: -4640630313609771562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 902
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281d93d2ef104d640800000000000000
+      internalID: 5103706468909699458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 901
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dce4bdc1bdaa790800000000000000
+      internalID: -7517955710956679862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_23
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 902
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be49b29cbdb7f8c0800000000000000
+      internalID: -3965492329263313231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_24
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 903
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a70aa861c73479d0800000000000000
+      internalID: -2777533766356564058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 839
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20df3bcebdf1ae520800000000000000
+      internalID: 2732031153383144706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 840
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7223ee7ba2a5c3c00800000000000000
+      internalID: 881678766578741799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_27
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 841
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3c67cdc31e34ed0800000000000000
+      internalID: -2430851722336877589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 841
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628075a7576fb61f0800000000000000
+      internalID: -1050475103636748250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 841
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083f7e66b3a4f570800000000000000
+      internalID: 8499598400688175107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_30
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 841
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3174cc595805230800000000000000
+      internalID: 3625544578457080738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 841
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be68a086cedf3430800000000000000
+      internalID: 3764972757648436920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_32
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 841
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd603cb370b2ed70800000000000000
+      internalID: 9071006610602618310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 778
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0063d69ff6026b0800000000000000
+      internalID: -5323131642482130772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 778
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93da378c65a3bf640800000000000000
+      internalID: 5114745946213952825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_35
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 777
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ec5734eb2933360800000000000000
+      internalID: 7148218379440344577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 776
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f3e5710ac669590800000000000000
+      internalID: -7667821880709071048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 777
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6510032fd8f954350800000000000000
+      internalID: 6000377510543491414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_38
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 778
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4f6d13baddb4590800000000000000
+      internalID: -7688808211459672916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_39
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 779
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87bde940631c56e0800000000000000
+      internalID: -1847580442850642038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 780
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268d3f8d41e7b1120800000000000000
+      internalID: 2385639055627114594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_41
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 779
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78540eae877a39b30800000000000000
+      internalID: 4292959007592695175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 712
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b7722b357d2e720800000000000000
+      internalID: 2874096266686987156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_43
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 712
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfe5f65e3ff90170800000000000000
+      internalID: 8145322044288266161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_44
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 712
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112c1bcbc7d8ef310800000000000000
+      internalID: 1440744497686364689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 711
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437737e8093eb9b80800000000000000
+      internalID: -8386859671042689228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_46
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 712
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa615a401f4a6a040800000000000000
+      internalID: 4658592219633358506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 713
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26948d01a1eebf480800000000000000
+      internalID: -8864229645829519006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 712
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929556cd44503960800000000000000
+      internalID: 7579650865881256603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_49
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 712
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc59b2b0fdf815050800000000000000
+      internalID: 5787565184275682764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_50
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 711
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f8f2160acb6120800000000000000
+      internalID: 2408240553196581375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 647
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbeb765e0a0b5000800000000000000
+      internalID: 25625279577451444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_52
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 647
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b265a0d529a8a62c0800000000000000
+      internalID: -4437582121589385685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_53
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 647
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5ece37009aae160800000000000000
+      internalID: 7055637585639302635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 646
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a3fcfc77ad91210800000000000000
+      internalID: 1304313775222897253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_55
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 647
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8aa64a8f2072820800000000000000
+      internalID: 2893284552542431436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_56
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 648
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8004e9726b387430800000000000000
+      internalID: 3780837181315350669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_57
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 647
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6221427e302936070800000000000000
+      internalID: 8098477100402741798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_58
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 647
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63f9a6c77fb38e20800000000000000
+      internalID: 3351733068848821102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_59
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 646
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d86409b9e8f96f0800000000000000
+      internalID: -675664620290667122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 584
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233ff70ef58f6db30800000000000000
+      internalID: 4311906783925891890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 584
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b857fcc603d7a8230800000000000000
+      internalID: 3641860895619904907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 584
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f059dd3fb8f63460800000000000000
+      internalID: 7221232552795263218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_63
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 583
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ac847f17b8212f0800000000000000
+      internalID: -1003586445353891324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_64
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 584
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fa2276241b82700800000000000000
+      internalID: 515857056090205952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 585
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673810e39b9ba95e0800000000000000
+      internalID: -1902003687350238346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 584
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9b707ee82b4ed90800000000000000
+      internalID: -7069329188233692729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 584
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7954375e08a41f490800000000000000
+      internalID: -7714302769243142761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_68
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 583
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60db4251c57b8cde0800000000000000
+      internalID: -1312597685258896122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 520
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301421163cdedebc0800000000000000
+      internalID: -3752081491126763261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_70
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 520
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef9c88337bcf9a0800000000000000
+      internalID: -6197877555202490639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 520
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5f6d2e62b9c5670800000000000000
+      internalID: 8528862385649677742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_72
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 520
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f28de74764f44b0800000000000000
+      internalID: -5454063157564133564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_73
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 520
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f14afae10e6fd00800000000000000
+      internalID: 1006237989164293993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_74
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 520
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031bbe5405e3d68a0800000000000000
+      internalID: -6310318988384816848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_75
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 455
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7216284f43c4390800000000000000
+      internalID: -7832827427140065324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_76
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 455
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4591f84cc375a20800000000000000
+      internalID: 3050974087478858919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_77
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 455
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af60f8b36df74880800000000000000
+      internalID: -8626647956458541151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_78
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 454
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b840cfc220bf65e10800000000000000
+      internalID: 2186210655898174603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_79
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 455
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffcc4783985f3cc0800000000000000
+      internalID: -3729164575786086414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 456
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86a9963cabb9afd0800000000000000
+      internalID: -2330124983862712689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_81
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 391
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0728b52989f7360800000000000000
+      internalID: 7169616886165041326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_82
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 391
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89264891c278aac0800000000000000
+      internalID: -3843696106151728757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_83
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 391
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a4796d262e68fa0800000000000000
+      internalID: -5798698556058023331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_84
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 390
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9488c2535e477ee0800000000000000
+      internalID: -1263455050676009830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_85
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 391
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bf943fc2da8e750800000000000000
+      internalID: 6334503284468480789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_86
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 392
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce59d6e173b239fe0800000000000000
+      internalID: -1183554761334614548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 326
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b53057d54f94ad60800000000000000
+      internalID: 7900614768628610488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 326
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0354ca9767b36fe20800000000000000
+      internalID: 3383957550049019184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 326
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2694673ac1f0300800000000000000
+      internalID: 220426395154211490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_90
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 325
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d1abffa77b784d0800000000000000
+      internalID: -3132333276908610193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_91
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 326
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a1cc24e2a602d90800000000000000
+      internalID: -7124577863578412387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kite_shield_92
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 327
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f0bf611d5487170800000000000000
+      internalID: 8176361887827169075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kite_shield_22: -7517955710956679862
+      kite_shield_47: -8864229645829519006
+      kite_shield_21: 5103706468909699458
+      kite_shield_29: 8499598400688175107
+      kite_shield_11: -2193058329989391922
+      kite_shield_27: -2430851722336877589
+      kite_shield_71: 8528862385649677742
+      kite_shield_17: -8453577554557790808
+      kite_shield_66: -7069329188233692729
+      kite_shield_64: 515857056090205952
+      kite_shield_82: -3843696106151728757
+      kite_shield_30: 3625544578457080738
+      kite_shield_78: 2186210655898174603
+      kite_shield_33: -5323131642482130772
+      kite_shield_20: -4640630313609771562
+      kite_shield_7: 7365224559166739158
+      kite_shield_41: 4292959007592695175
+      kite_shield_67: -7714302769243142761
+      kite_shield_23: -3965492329263313231
+      kite_shield_83: -5798698556058023331
+      kite_shield_34: 5114745946213952825
+      kite_shield_57: 8098477100402741798
+      kite_shield_39: -1847580442850642038
+      kite_shield_24: -2777533766356564058
+      kite_shield_10: 7089965329992119120
+      kite_shield_63: -1003586445353891324
+      kite_shield_3: 731588353664927967
+      kite_shield_9: 4545955474406919225
+      kite_shield_53: 7055637585639302635
+      kite_shield_52: -4437582121589385685
+      kite_shield_75: -7832827427140065324
+      kite_shield_48: 7579650865881256603
+      kite_shield_61: 3641860895619904907
+      kite_shield_70: -6197877555202490639
+      kite_shield_91: -7124577863578412387
+      kite_shield_32: 9071006610602618310
+      kite_shield_36: -7667821880709071048
+      kite_shield_90: -3132333276908610193
+      kite_shield_43: 8145322044288266161
+      kite_shield_38: -7688808211459672916
+      kite_shield_46: 4658592219633358506
+      kite_shield_5: -3861874077264507603
+      kite_shield_1: -1556274398797170461
+      kite_shield_68: -1312597685258896122
+      kite_shield_15: 594859209010966692
+      kite_shield_86: -1183554761334614548
+      kite_shield_74: -6310318988384816848
+      kite_shield_49: 5787565184275682764
+      kite_shield_4: 8882958380700412569
+      kite_shield_18: 3055798100541720355
+      kite_shield_65: -1902003687350238346
+      kite_shield_19: 6087099638023646112
+      kite_shield_16: 2533713423381298175
+      kite_shield_42: 2874096266686987156
+      kite_shield_25: 2732031153383144706
+      kite_shield_88: 3383957550049019184
+      kite_shield_50: 2408240553196581375
+      kite_shield_56: 3780837181315350669
+      kite_shield_58: 3351733068848821102
+      kite_shield_2: 6140275735382716100
+      kite_shield_45: -8386859671042689228
+      kite_shield_76: 3050974087478858919
+      kite_shield_80: -2330124983862712689
+      kite_shield_77: -8626647956458541151
+      kite_shield_13: 2849503838153771257
+      kite_shield_89: 220426395154211490
+      kite_shield_51: 25625279577451444
+      kite_shield_87: 7900614768628610488
+      kite_shield_73: 1006237989164293993
+      kite_shield_92: 8176361887827169075
+      kite_shield_37: 6000377510543491414
+      kite_shield_14: -743012596011215805
+      kite_shield_28: -1050475103636748250
+      kite_shield_35: 7148218379440344577
+      kite_shield_85: 6334503284468480789
+      kite_shield_6: 3684718853598538085
+      kite_shield_40: 2385639055627114594
+      kite_shield_0: -7405204381967410945
+      kite_shield_59: -675664620290667122
+      kite_shield_31: 3764972757648436920
+      kite_shield_54: 1304313775222897253
+      kite_shield_26: 881678766578741799
+      kite_shield_62: 7221232552795263218
+      kite_shield_79: -3729164575786086414
+      kite_shield_12: 80461050991902329
+      kite_shield_60: 4311906783925891890
+      kite_shield_44: 1440744497686364689
+      kite_shield_72: -5454063157564133564
+      kite_shield_69: -3752081491126763261
+      kite_shield_81: 7169616886165041326
+      kite_shield_84: -1263455050676009830
+      kite_shield_8: -7843358551372284248
+      kite_shield_55: 2893284552542431436
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

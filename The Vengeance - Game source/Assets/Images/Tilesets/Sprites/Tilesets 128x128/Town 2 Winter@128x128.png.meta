@@ -1,0 +1,6522 @@
+fileFormatVersion: 2
+guid: 169685c6fc55cf643b60ce04c71647be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9063025153379559569
+    second: Town 2 Winter@128x128_0
+  - first:
+      213: -3362911394595629147
+    second: Town 2 Winter@128x128_1
+  - first:
+      213: -2916237400441385928
+    second: Town 2 Winter@128x128_2
+  - first:
+      213: -6751673049016455666
+    second: Town 2 Winter@128x128_3
+  - first:
+      213: 7855621613094642413
+    second: Town 2 Winter@128x128_4
+  - first:
+      213: -7720713819544924924
+    second: Town 2 Winter@128x128_5
+  - first:
+      213: 6841617979442583777
+    second: Town 2 Winter@128x128_6
+  - first:
+      213: -3074849008757874438
+    second: Town 2 Winter@128x128_7
+  - first:
+      213: -1504004361352627786
+    second: Town 2 Winter@128x128_8
+  - first:
+      213: -1587325786578877943
+    second: Town 2 Winter@128x128_9
+  - first:
+      213: -945179121370362461
+    second: Town 2 Winter@128x128_10
+  - first:
+      213: -2315299102016285828
+    second: Town 2 Winter@128x128_11
+  - first:
+      213: 9134144437022168899
+    second: Town 2 Winter@128x128_12
+  - first:
+      213: -1183083980585606695
+    second: Town 2 Winter@128x128_13
+  - first:
+      213: -4702469544322442167
+    second: Town 2 Winter@128x128_14
+  - first:
+      213: -4195617497994736278
+    second: Town 2 Winter@128x128_15
+  - first:
+      213: 3504537470186757533
+    second: Town 2 Winter@128x128_16
+  - first:
+      213: 4166161204309062940
+    second: Town 2 Winter@128x128_17
+  - first:
+      213: -6992466197278445644
+    second: Town 2 Winter@128x128_18
+  - first:
+      213: -304412903493959228
+    second: Town 2 Winter@128x128_19
+  - first:
+      213: -3933461692276811742
+    second: Town 2 Winter@128x128_20
+  - first:
+      213: 8800738649347889043
+    second: Town 2 Winter@128x128_21
+  - first:
+      213: 111025815312631789
+    second: Town 2 Winter@128x128_22
+  - first:
+      213: -8219024200557685144
+    second: Town 2 Winter@128x128_23
+  - first:
+      213: -2399011131351771302
+    second: Town 2 Winter@128x128_24
+  - first:
+      213: 1309289105991261714
+    second: Town 2 Winter@128x128_25
+  - first:
+      213: 2201668784100139854
+    second: Town 2 Winter@128x128_26
+  - first:
+      213: 7712172372504642687
+    second: Town 2 Winter@128x128_27
+  - first:
+      213: -4212633516428522647
+    second: Town 2 Winter@128x128_28
+  - first:
+      213: -4015436936146268951
+    second: Town 2 Winter@128x128_29
+  - first:
+      213: 6987517631862004440
+    second: Town 2 Winter@128x128_30
+  - first:
+      213: 1232512213299429897
+    second: Town 2 Winter@128x128_31
+  - first:
+      213: -2016017477371528053
+    second: Town 2 Winter@128x128_32
+  - first:
+      213: 4718848014055592074
+    second: Town 2 Winter@128x128_33
+  - first:
+      213: 9107845027778713005
+    second: Town 2 Winter@128x128_34
+  - first:
+      213: -2892610598691439782
+    second: Town 2 Winter@128x128_35
+  - first:
+      213: -5503951966296121006
+    second: Town 2 Winter@128x128_36
+  - first:
+      213: -7453092119033819053
+    second: Town 2 Winter@128x128_37
+  - first:
+      213: -4839492586040342078
+    second: Town 2 Winter@128x128_38
+  - first:
+      213: 5380787569651239051
+    second: Town 2 Winter@128x128_39
+  - first:
+      213: -4835137073243572743
+    second: Town 2 Winter@128x128_40
+  - first:
+      213: -6313701138871105080
+    second: Town 2 Winter@128x128_41
+  - first:
+      213: 3062422403186295835
+    second: Town 2 Winter@128x128_42
+  - first:
+      213: 2655441154893315600
+    second: Town 2 Winter@128x128_43
+  - first:
+      213: 6517765743605729976
+    second: Town 2 Winter@128x128_44
+  - first:
+      213: 3328696916008947553
+    second: Town 2 Winter@128x128_45
+  - first:
+      213: 8440374185497547338
+    second: Town 2 Winter@128x128_46
+  - first:
+      213: -2975689893015362157
+    second: Town 2 Winter@128x128_47
+  - first:
+      213: 5355267248349915103
+    second: Town 2 Winter@128x128_48
+  - first:
+      213: -3183719817729232642
+    second: Town 2 Winter@128x128_49
+  - first:
+      213: 8725369220296840237
+    second: Town 2 Winter@128x128_50
+  - first:
+      213: 7414942568422727159
+    second: Town 2 Winter@128x128_51
+  - first:
+      213: 7822482428803006744
+    second: Town 2 Winter@128x128_52
+  - first:
+      213: -3776061297138709745
+    second: Town 2 Winter@128x128_53
+  - first:
+      213: -3448977650069811191
+    second: Town 2 Winter@128x128_54
+  - first:
+      213: -4805964291402913581
+    second: Town 2 Winter@128x128_55
+  - first:
+      213: 6498218725219492263
+    second: Town 2 Winter@128x128_56
+  - first:
+      213: -3154469763896131875
+    second: Town 2 Winter@128x128_57
+  - first:
+      213: 4475238500735652696
+    second: Town 2 Winter@128x128_58
+  - first:
+      213: 3752480849048530104
+    second: Town 2 Winter@128x128_59
+  - first:
+      213: 6912410089708700280
+    second: Town 2 Winter@128x128_60
+  - first:
+      213: 876648560906513228
+    second: Town 2 Winter@128x128_61
+  - first:
+      213: 3442879300835174870
+    second: Town 2 Winter@128x128_62
+  - first:
+      213: 1405050481938896847
+    second: Town 2 Winter@128x128_63
+  - first:
+      213: -7760402767938659888
+    second: Town 2 Winter@128x128_64
+  - first:
+      213: -4731131850263438015
+    second: Town 2 Winter@128x128_65
+  - first:
+      213: 1829473132870753418
+    second: Town 2 Winter@128x128_66
+  - first:
+      213: 3194556202483672340
+    second: Town 2 Winter@128x128_67
+  - first:
+      213: 1040352487163191688
+    second: Town 2 Winter@128x128_68
+  - first:
+      213: -2559803358202785948
+    second: Town 2 Winter@128x128_69
+  - first:
+      213: 5911840613476416880
+    second: Town 2 Winter@128x128_70
+  - first:
+      213: -1631906300034013752
+    second: Town 2 Winter@128x128_71
+  - first:
+      213: -8313002218926915389
+    second: Town 2 Winter@128x128_72
+  - first:
+      213: -2408162739049294168
+    second: Town 2 Winter@128x128_73
+  - first:
+      213: -6483028695882141151
+    second: Town 2 Winter@128x128_74
+  - first:
+      213: 4042814073752167157
+    second: Town 2 Winter@128x128_75
+  - first:
+      213: -2321306814523584270
+    second: Town 2 Winter@128x128_76
+  - first:
+      213: 7114922994859865623
+    second: Town 2 Winter@128x128_77
+  - first:
+      213: -9074999333982652278
+    second: Town 2 Winter@128x128_78
+  - first:
+      213: -7193380273194028713
+    second: Town 2 Winter@128x128_79
+  - first:
+      213: 9033877165813517403
+    second: Town 2 Winter@128x128_80
+  - first:
+      213: -2038118423383162315
+    second: Town 2 Winter@128x128_81
+  - first:
+      213: 3447522443437297949
+    second: Town 2 Winter@128x128_82
+  - first:
+      213: 2863226571151982262
+    second: Town 2 Winter@128x128_83
+  - first:
+      213: 5083742844590392897
+    second: Town 2 Winter@128x128_84
+  - first:
+      213: -7600917897726591708
+    second: Town 2 Winter@128x128_85
+  - first:
+      213: 3120950572615100246
+    second: Town 2 Winter@128x128_86
+  - first:
+      213: -918542351809264348
+    second: Town 2 Winter@128x128_87
+  - first:
+      213: 8823464360810112422
+    second: Town 2 Winter@128x128_88
+  - first:
+      213: 1287892799463425701
+    second: Town 2 Winter@128x128_89
+  - first:
+      213: 7902592213083780296
+    second: Town 2 Winter@128x128_90
+  - first:
+      213: 2683181133646523913
+    second: Town 2 Winter@128x128_91
+  - first:
+      213: 1954477539208801450
+    second: Town 2 Winter@128x128_92
+  - first:
+      213: 3945742684472928561
+    second: Town 2 Winter@128x128_93
+  - first:
+      213: 4308881719943993126
+    second: Town 2 Winter@128x128_94
+  - first:
+      213: -434613174524774026
+    second: Town 2 Winter@128x128_95
+  - first:
+      213: -3965360424668981510
+    second: Town 2 Winter@128x128_96
+  - first:
+      213: 4414882948099262684
+    second: Town 2 Winter@128x128_97
+  - first:
+      213: -975822674042793484
+    second: Town 2 Winter@128x128_98
+  - first:
+      213: 2145816154288664542
+    second: Town 2 Winter@128x128_99
+  - first:
+      213: -3098414081408578849
+    second: Town 2 Winter@128x128_100
+  - first:
+      213: -5356461359122256789
+    second: Town 2 Winter@128x128_101
+  - first:
+      213: 2797745530294210982
+    second: Town 2 Winter@128x128_102
+  - first:
+      213: 3435247580487771957
+    second: Town 2 Winter@128x128_103
+  - first:
+      213: -1551444040794271861
+    second: Town 2 Winter@128x128_104
+  - first:
+      213: 2592194791125349924
+    second: Town 2 Winter@128x128_105
+  - first:
+      213: 4980792605702773499
+    second: Town 2 Winter@128x128_106
+  - first:
+      213: 1723708005459767966
+    second: Town 2 Winter@128x128_107
+  - first:
+      213: 1730352573201920559
+    second: Town 2 Winter@128x128_108
+  - first:
+      213: -6019495144552578410
+    second: Town 2 Winter@128x128_109
+  - first:
+      213: -5484452499608049997
+    second: Town 2 Winter@128x128_110
+  - first:
+      213: -1973795057960826080
+    second: Town 2 Winter@128x128_111
+  - first:
+      213: -3869740432913940319
+    second: Town 2 Winter@128x128_112
+  - first:
+      213: -3079978989405642020
+    second: Town 2 Winter@128x128_113
+  - first:
+      213: 5038525853849469224
+    second: Town 2 Winter@128x128_114
+  - first:
+      213: -1066216121023419759
+    second: Town 2 Winter@128x128_115
+  - first:
+      213: -2172581768559265936
+    second: Town 2 Winter@128x128_116
+  - first:
+      213: 3664700888953333071
+    second: Town 2 Winter@128x128_117
+  - first:
+      213: 1253628759778607567
+    second: Town 2 Winter@128x128_118
+  - first:
+      213: -32669826515130813
+    second: Town 2 Winter@128x128_119
+  - first:
+      213: 4734265092118043296
+    second: Town 2 Winter@128x128_120
+  - first:
+      213: 6470574994152663846
+    second: Town 2 Winter@128x128_121
+  - first:
+      213: -4099701490273702632
+    second: Town 2 Winter@128x128_122
+  - first:
+      213: -8193689615245922544
+    second: Town 2 Winter@128x128_123
+  - first:
+      213: -6170070238528691396
+    second: Town 2 Winter@128x128_124
+  - first:
+      213: -6435120952866680720
+    second: Town 2 Winter@128x128_125
+  - first:
+      213: 4495628020114298658
+    second: Town 2 Winter@128x128_126
+  - first:
+      213: 2067650217436692145
+    second: Town 2 Winter@128x128_127
+  - first:
+      213: 6283168096774612511
+    second: Town 2 Winter@128x128_128
+  - first:
+      213: -1509116088706149891
+    second: Town 2 Winter@128x128_129
+  - first:
+      213: -9054862494829074419
+    second: Town 2 Winter@128x128_130
+  - first:
+      213: -8439148584513548902
+    second: Town 2 Winter@128x128_131
+  - first:
+      213: -5106856890442874089
+    second: Town 2 Winter@128x128_132
+  - first:
+      213: 9169533662697894629
+    second: Town 2 Winter@128x128_133
+  - first:
+      213: 5598606506859147499
+    second: Town 2 Winter@128x128_134
+  - first:
+      213: 8245594642617653384
+    second: Town 2 Winter@128x128_135
+  - first:
+      213: -3148129812858830173
+    second: Town 2 Winter@128x128_136
+  - first:
+      213: -8933273836161269573
+    second: Town 2 Winter@128x128_137
+  - first:
+      213: -6564945883661895117
+    second: Town 2 Winter@128x128_138
+  - first:
+      213: 6602533148388113322
+    second: Town 2 Winter@128x128_139
+  - first:
+      213: -515523166153799999
+    second: Town 2 Winter@128x128_140
+  - first:
+      213: 8571814624520669541
+    second: Town 2 Winter@128x128_141
+  - first:
+      213: -4185551511497794264
+    second: Town 2 Winter@128x128_142
+  - first:
+      213: -6728754686027636474
+    second: Town 2 Winter@128x128_143
+  - first:
+      213: -5190147014817153341
+    second: Town 2 Winter@128x128_144
+  - first:
+      213: -4962080514249871640
+    second: Town 2 Winter@128x128_145
+  - first:
+      213: -6400172712916899572
+    second: Town 2 Winter@128x128_146
+  - first:
+      213: 4591375267868679124
+    second: Town 2 Winter@128x128_147
+  - first:
+      213: 1220043544205910973
+    second: Town 2 Winter@128x128_148
+  - first:
+      213: -8978915805055449222
+    second: Town 2 Winter@128x128_149
+  - first:
+      213: -1644960327646117154
+    second: Town 2 Winter@128x128_150
+  - first:
+      213: 6869852605672974684
+    second: Town 2 Winter@128x128_151
+  - first:
+      213: -1982268002459506243
+    second: Town 2 Winter@128x128_152
+  - first:
+      213: 1869758294443666242
+    second: Town 2 Winter@128x128_153
+  - first:
+      213: 1780017345474126363
+    second: Town 2 Winter@128x128_154
+  - first:
+      213: -1041757090641039412
+    second: Town 2 Winter@128x128_155
+  - first:
+      213: 7353746359597404
+    second: Town 2 Winter@128x128_156
+  - first:
+      213: -1340464006570676445
+    second: Town 2 Winter@128x128_157
+  - first:
+      213: 2598840572708430086
+    second: Town 2 Winter@128x128_158
+  - first:
+      213: -6742884287666875851
+    second: Town 2 Winter@128x128_159
+  - first:
+      213: 291563141791640292
+    second: Town 2 Winter@128x128_160
+  - first:
+      213: 3358511729105140953
+    second: Town 2 Winter@128x128_161
+  - first:
+      213: -7075130076546240074
+    second: Town 2 Winter@128x128_162
+  - first:
+      213: 9057779587839165664
+    second: Town 2 Winter@128x128_163
+  - first:
+      213: -6364150629021203568
+    second: Town 2 Winter@128x128_164
+  - first:
+      213: 8269532182165638393
+    second: Town 2 Winter@128x128_165
+  - first:
+      213: -6238748661007219399
+    second: Town 2 Winter@128x128_166
+  - first:
+      213: -1441746034615843438
+    second: Town 2 Winter@128x128_167
+  - first:
+      213: -628515374426804555
+    second: Town 2 Winter@128x128_168
+  - first:
+      213: 1427716702966349216
+    second: Town 2 Winter@128x128_169
+  - first:
+      213: 4234829440810902306
+    second: Town 2 Winter@128x128_170
+  - first:
+      213: -5222849153563382063
+    second: Town 2 Winter@128x128_171
+  - first:
+      213: 6390822905826624573
+    second: Town 2 Winter@128x128_172
+  - first:
+      213: 3384171827009827114
+    second: Town 2 Winter@128x128_173
+  - first:
+      213: 3987096656684931663
+    second: Town 2 Winter@128x128_174
+  - first:
+      213: -6079660468793176069
+    second: Town 2 Winter@128x128_175
+  - first:
+      213: 4460811351612616426
+    second: Town 2 Winter@128x128_176
+  - first:
+      213: -3948150398578031904
+    second: Town 2 Winter@128x128_177
+  - first:
+      213: 7743008744939382203
+    second: Town 2 Winter@128x128_178
+  - first:
+      213: 7713645861207168143
+    second: Town 2 Winter@128x128_179
+  - first:
+      213: 2597024379570562680
+    second: Town 2 Winter@128x128_180
+  - first:
+      213: -3910264510789009152
+    second: Town 2 Winter@128x128_181
+  - first:
+      213: -4474411900342909961
+    second: Town 2 Winter@128x128_182
+  - first:
+      213: -875854204172853853
+    second: Town 2 Winter@128x128_183
+  - first:
+      213: 2025567018244308779
+    second: Town 2 Winter@128x128_184
+  - first:
+      213: -9079347434263145804
+    second: Town 2 Winter@128x128_185
+  - first:
+      213: 7082099374325783065
+    second: Town 2 Winter@128x128_186
+  - first:
+      213: 8537153950427483723
+    second: Town 2 Winter@128x128_187
+  - first:
+      213: -1761050408896590693
+    second: Town 2 Winter@128x128_188
+  - first:
+      213: -8578234731713931167
+    second: Town 2 Winter@128x128_189
+  - first:
+      213: -8871919744441794921
+    second: Town 2 Winter@128x128_190
+  - first:
+      213: -5744064824679810470
+    second: Town 2 Winter@128x128_191
+  - first:
+      213: -7690716771027358545
+    second: Town 2 Winter@128x128_192
+  - first:
+      213: 2630887174343346399
+    second: Town 2 Winter@128x128_193
+  - first:
+      213: -3466332063143443461
+    second: Town 2 Winter@128x128_194
+  - first:
+      213: -8585312809230360396
+    second: Town 2 Winter@128x128_195
+  - first:
+      213: -2427332707020434643
+    second: Town 2 Winter@128x128_196
+  - first:
+      213: 4761057737078857229
+    second: Town 2 Winter@128x128_197
+  - first:
+      213: 5232038334645109032
+    second: Town 2 Winter@128x128_198
+  - first:
+      213: 9079722383840844611
+    second: Town 2 Winter@128x128_199
+  - first:
+      213: 3277733486523434487
+    second: Town 2 Winter@128x128_200
+  - first:
+      213: -3038079253290367461
+    second: Town 2 Winter@128x128_201
+  - first:
+      213: 4847446940511211848
+    second: Town 2 Winter@128x128_202
+  - first:
+      213: 4053903949087705610
+    second: Town 2 Winter@128x128_203
+  - first:
+      213: 5752592794023647871
+    second: Town 2 Winter@128x128_204
+  - first:
+      213: 2290072228213659126
+    second: Town 2 Winter@128x128_205
+  - first:
+      213: 4469974942267710299
+    second: Town 2 Winter@128x128_206
+  - first:
+      213: -6949823779508942052
+    second: Town 2 Winter@128x128_207
+  - first:
+      213: 2997611519684005579
+    second: Town 2 Winter@128x128_208
+  - first:
+      213: 3947662459166192347
+    second: Town 2 Winter@128x128_209
+  - first:
+      213: 1280605286249238015
+    second: Town 2 Winter@128x128_210
+  - first:
+      213: 611412359404201476
+    second: Town 2 Winter@128x128_211
+  - first:
+      213: -6755733124979969505
+    second: Town 2 Winter@128x128_212
+  - first:
+      213: 1832637186397269030
+    second: Town 2 Winter@128x128_213
+  - first:
+      213: 3796484123167912682
+    second: Town 2 Winter@128x128_214
+  - first:
+      213: -8548038119799162772
+    second: Town 2 Winter@128x128_215
+  - first:
+      213: -2037033051854402670
+    second: Town 2 Winter@128x128_216
+  - first:
+      213: 5044568828097582217
+    second: Town 2 Winter@128x128_217
+  - first:
+      213: 2455809486257620701
+    second: Town 2 Winter@128x128_218
+  - first:
+      213: -5555075097243536918
+    second: Town 2 Winter@128x128_219
+  - first:
+      213: -53557035563265271
+    second: Town 2 Winter@128x128_220
+  - first:
+      213: 7097202493963858894
+    second: Town 2 Winter@128x128_221
+  - first:
+      213: -7353981938031055313
+    second: Town 2 Winter@128x128_222
+  - first:
+      213: -1709870807314161164
+    second: Town 2 Winter@128x128_223
+  - first:
+      213: 2836991868931030280
+    second: Town 2 Winter@128x128_224
+  - first:
+      213: -7389033458757776777
+    second: Town 2 Winter@128x128_225
+  - first:
+      213: -3824754380088249989
+    second: Town 2 Winter@128x128_226
+  - first:
+      213: -929323860218374484
+    second: Town 2 Winter@128x128_227
+  - first:
+      213: -8536229348132080464
+    second: Town 2 Winter@128x128_228
+  - first:
+      213: 789250526441941513
+    second: Town 2 Winter@128x128_229
+  - first:
+      213: -5939679944727890176
+    second: Town 2 Winter@128x128_230
+  - first:
+      213: -1111501112028732531
+    second: Town 2 Winter@128x128_231
+  - first:
+      213: 3387666005570456953
+    second: Town 2 Winter@128x128_232
+  - first:
+      213: 2097084896101776333
+    second: Town 2 Winter@128x128_233
+  - first:
+      213: -7121335483910993642
+    second: Town 2 Winter@128x128_234
+  - first:
+      213: 4590151827925221512
+    second: Town 2 Winter@128x128_235
+  - first:
+      213: 5512992929190764773
+    second: Town 2 Winter@128x128_236
+  - first:
+      213: -4031874788718853674
+    second: Town 2 Winter@128x128_237
+  - first:
+      213: 8167753354914887520
+    second: Town 2 Winter@128x128_238
+  - first:
+      213: 2697244963025474969
+    second: Town 2 Winter@128x128_239
+  - first:
+      213: -7342139173500763059
+    second: Town 2 Winter@128x128_240
+  - first:
+      213: 3623971186940928515
+    second: Town 2 Winter@128x128_241
+  - first:
+      213: -3198302133829008185
+    second: Town 2 Winter@128x128_242
+  - first:
+      213: -423576647896420352
+    second: Town 2 Winter@128x128_243
+  - first:
+      213: 389784194610950778
+    second: Town 2 Winter@128x128_244
+  - first:
+      213: -8152331062150432359
+    second: Town 2 Winter@128x128_245
+  - first:
+      213: -8653265416850766824
+    second: Town 2 Winter@128x128_246
+  - first:
+      213: -7757192990146627935
+    second: Town 2 Winter@128x128_247
+  - first:
+      213: -6738520234499425522
+    second: Town 2 Winter@128x128_248
+  - first:
+      213: -8698606507047147623
+    second: Town 2 Winter@128x128_249
+  - first:
+      213: 6366665801885598281
+    second: Town 2 Winter@128x128_250
+  - first:
+      213: 6657561323317553958
+    second: Town 2 Winter@128x128_251
+  - first:
+      213: -894463792068281913
+    second: Town 2 Winter@128x128_252
+  - first:
+      213: 5292577517802756501
+    second: Town 2 Winter@128x128_253
+  - first:
+      213: 1862561957587178937
+    second: Town 2 Winter@128x128_254
+  - first:
+      213: 22289388380560662
+    second: Town 2 Winter@128x128_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67916614aaa93280800000000000000
+      internalID: -9063025153379559569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7930277e98451d0800000000000000
+      internalID: -3362911394595629147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c8bf109817787d0800000000000000
+      internalID: -2916237400441385928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eabc1422d3d42a0800000000000000
+      internalID: -6751673049016455666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2236a7c36c40d60800000000000000
+      internalID: 7855621613094642413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d439defa38ad490800000000000000
+      internalID: -7720713819544924924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8d999cd4f42fe50800000000000000
+      internalID: 6841617979442583777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af066072e11f355d0800000000000000
+      internalID: -3074849008757874438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b930fc7004b02be0800000000000000
+      internalID: -1504004361352627786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902062c6b9fa8f9e0800000000000000
+      internalID: -1587325786578877943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad8a9dc89c02e2f0800000000000000
+      internalID: -945179121370362461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73d983dbb76edfd0800000000000000
+      internalID: -2315299102016285828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34711df78fff2ce70800000000000000
+      internalID: 9134144437022168899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d16dbd4367d49fe0800000000000000
+      internalID: -1183083980585606695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c519b3dd87dbeb0800000000000000
+      internalID: -4702469544322442167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d4c9a6d1c26c5c0800000000000000
+      internalID: -4195617497994736278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d1784e24e92a030800000000000000
+      internalID: 3504537470186757533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15fad3ca8d21d930800000000000000
+      internalID: 4166161204309062940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfaa4f8a05c5fe90800000000000000
+      internalID: -6992466197278445644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1823eb31286cbf0800000000000000
+      internalID: -304412903493959228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228db366e698969c0800000000000000
+      internalID: -3933461692276811742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3979e6b5c21822a70800000000000000
+      internalID: 8800738649347889043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de78b9a04617a8100800000000000000
+      internalID: 111025815312631789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8669b6d290920fd80800000000000000
+      internalID: -8219024200557685144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57d197261005bed0800000000000000
+      internalID: -2399011131351771302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ed5e641878b2210800000000000000
+      internalID: 1309289105991261714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43ea5d1816ed8e10800000000000000
+      internalID: 2201668784100139854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_27
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7488b579e3270b60800000000000000
+      internalID: 7712172372504642687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8f54e228b985c0800000000000000
+      internalID: -4212633516428522647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_29
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecc40b916d4648c0800000000000000
+      internalID: -4015436936146268951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad9e4c346a8f060800000000000000
+      internalID: 6987517631862004440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9020b0fe353ca1110800000000000000
+      internalID: 1232512213299429897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7a4029caa504e0800000000000000
+      internalID: -2016017477371528053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8057da6447bc7140800000000000000
+      internalID: 4718848014055592074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5de0e1cc0956e70800000000000000
+      internalID: 9107845027778713005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b77777cf16bd7d0800000000000000
+      internalID: -2892610598691439782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2516b1c09d80e93b0800000000000000
+      internalID: -5503951966296121006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d9b6b43c419890800000000000000
+      internalID: -7453092119033819053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9cdeb322ba6dcb0800000000000000
+      internalID: -4839492586040342078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8846e439c56caa40800000000000000
+      internalID: 5380787569651239051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5bef4137426ecb0800000000000000
+      internalID: -4835137073243572743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9cb9ff34a3168a0800000000000000
+      internalID: -6313701138871105080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140e1643f8ef7a20800000000000000
+      internalID: 3062422403186295835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e7e5749a50ad420800000000000000
+      internalID: 2655441154893315600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba44d44961c37a50800000000000000
+      internalID: 6517765743605729976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc6ab7538e13e20800000000000000
+      internalID: 3328696916008947553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4255f94a9b322570800000000000000
+      internalID: 8440374185497547338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3956915eec934b6d0800000000000000
+      internalID: -2975689893015362157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd72e2f503bb15a40800000000000000
+      internalID: 5355267248349915103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0b0ef91b721d3d0800000000000000
+      internalID: -3183719817729232642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d249beda31db61970800000000000000
+      internalID: 8725369220296840237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd52ccdafa27e660800000000000000
+      internalID: 7414942568422727159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811c98ed25a0f8c60800000000000000
+      internalID: 7822482428803006744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b42f5b14cb89bc0800000000000000
+      internalID: -3776061297138709745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d359c915c220d0800000000000000
+      internalID: -3448977650069811191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a7b7a0f8cd4db0800000000000000
+      internalID: -4805964291402913581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1ef75608f4e2a50800000000000000
+      internalID: 6498218725219492263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeb24c76721934d0800000000000000
+      internalID: -3154469763896131875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8531081a4bd3b1e30800000000000000
+      internalID: 4475238500735652696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6ef1637d731430800000000000000
+      internalID: 3752480849048530104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_60
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c9e26a50ddef50800000000000000
+      internalID: 6912410089708700280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_61
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba0b1b83b7a2c00800000000000000
+      internalID: 876648560906513228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d963d2ab7097cf20800000000000000
+      internalID: 3442879300835174870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7957318fdbf7310800000000000000
+      internalID: 1405050481938896847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9de078cc28d4490800000000000000
+      internalID: -7760402767938659888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dd28716a4a75eb0800000000000000
+      internalID: -4731131850263438015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd1e21f18936910800000000000000
+      internalID: 1829473132870753418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4156f00d0f7555c20800000000000000
+      internalID: 3194556202483672340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8816e863313107e00800000000000000
+      internalID: 1040352487163191688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f887b7860c97cd0800000000000000
+      internalID: -2559803358202785948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d3df637b31b0250800000000000000
+      internalID: 5911840613476416880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c520c7cddd4a59e0800000000000000
+      internalID: -1631906300034013752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0c3dba68842ac80800000000000000
+      internalID: -8313002218926915389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_73
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a692a17fbc749ed0800000000000000
+      internalID: -2408162739049294168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122f749efb7a706a0800000000000000
+      internalID: -6483028695882141151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_75
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2a2f6faf5fa1830800000000000000
+      internalID: 4042814073752167157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0d0a140cf09cfd0800000000000000
+      internalID: -2321306814523584270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_77
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71671e074c84db260800000000000000
+      internalID: 7114922994859865623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_78
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88be09ef202f0280800000000000000
+      internalID: -9074999333982652278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_79
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751b7f1f0cafb2c90800000000000000
+      internalID: -7193380273194028713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cc3d43b67ce5d70800000000000000
+      internalID: 9033877165813517403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324114a71627b3e0800000000000000
+      internalID: -2038118423383162315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d115444856f08df20800000000000000
+      internalID: 3447522443437297949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be39fc75693cb720800000000000000
+      internalID: 2863226571151982262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1468e3dae251d8640800000000000000
+      internalID: 5083742844590392897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42df813817d148690800000000000000
+      internalID: -7600917897726591708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6576642a208df4b20800000000000000
+      internalID: 3120950572615100246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425c141099ea043f0800000000000000
+      internalID: -918542351809264348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5e762661e337a70800000000000000
+      internalID: 8823464360810112422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a60dc47da38fd110800000000000000
+      internalID: 1287892799463425701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c470a18fb5abad60800000000000000
+      internalID: 7902592213083780296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_91
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ee70366039c3520800000000000000
+      internalID: 2683181133646523913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac250677f2bf1b10800000000000000
+      internalID: 1954477539208801450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139ea1be01812c630800000000000000
+      internalID: 3945742684472928561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6279f6848193ccb30800000000000000
+      internalID: 4308881719943993126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_95
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679feb5de91f7f9f0800000000000000
+      internalID: -434613174524774026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6963104b538f8c0800000000000000
+      internalID: -3965360424668981510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8c26676a0d44d30800000000000000
+      internalID: 4414882948099262684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f158e5b27e2572f0800000000000000
+      internalID: -975822674042793484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfabad5c6877cd10800000000000000
+      internalID: 2145816154288664542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdac29e1fc83005d0800000000000000
+      internalID: -3098414081408578849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c696c06c60aa5b0800000000000000
+      internalID: -5356461359122256789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a19f199cb693d620800000000000000
+      internalID: 2797745530294210982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5376e7649737caf20800000000000000
+      internalID: 3435247580487771957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f8f836dd9287ae0800000000000000
+      internalID: -1551444040794271861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426f4a1bd6359f320800000000000000
+      internalID: 2592194791125349924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa5eca4c745f1540800000000000000
+      internalID: 4980792605702773499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e923de16c47dbe710800000000000000
+      internalID: 1723708005459767966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2232ed5f72730810800000000000000
+      internalID: 1730352573201920559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_109
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69241c50f05767ca0800000000000000
+      internalID: -6019495144552578410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_110
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6eb5d628f43e3b0800000000000000
+      internalID: -5484452499608049997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bc2d63adbab94e0800000000000000
+      internalID: -1973795057960826080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0c23b349beb4ac0800000000000000
+      internalID: -3869740432913940319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd26fc47d67b145d0800000000000000
+      internalID: -3079978989405642020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c15e91907ce540800000000000000
+      internalID: 5038525853849469224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aaa94461a0431f0800000000000000
+      internalID: -1066216121023419759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077f88f646079d1e0800000000000000
+      internalID: -2172581768559265936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f452f16ca02abd230800000000000000
+      internalID: 3664700888953333071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc141da07b8c56110800000000000000
+      internalID: 1253628759778607567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34621b347feeb8ff0800000000000000
+      internalID: -32669826515130813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_120
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa5a30a40d73b140800000000000000
+      internalID: 4734265092118043296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62baef2bca91cc950800000000000000
+      internalID: 6470574994152663846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da81b373fea17c0800000000000000
+      internalID: -4099701490273702632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_123
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fa57bf4ba2a4e80800000000000000
+      internalID: -8193689615245922544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_124
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33a949fec18f5aa0800000000000000
+      internalID: -6170070238528691396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07055bd869bd1b6a0800000000000000
+      internalID: -6435120952866680720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_126
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227943d8ddda36e30800000000000000
+      internalID: 4495628020114298658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_127
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb21afae4c1bc10800000000000000
+      internalID: 2067650217436692145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f166158281c423750800000000000000
+      internalID: 6283168096774612511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1d7d7b9ea8e0be0800000000000000
+      internalID: -1509116088706149891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08a4b1298aa65280800000000000000
+      internalID: -9054862494829074419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d445d231f12ea80800000000000000
+      internalID: -8439148584513548902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713856627bcc029b0800000000000000
+      internalID: -5106856890442874089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_133
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e23811b84ab04f70800000000000000
+      internalID: 9169533662697894629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b78e84fe32bd40800000000000000
+      internalID: 5598606506859147499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_135
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888d613f3ac3e6270800000000000000
+      internalID: 8245594642617653384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a28bbd5d989f44d0800000000000000
+      internalID: -3148129812858830173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_137
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0015ac6c2a60480800000000000000
+      internalID: -8933273836161269573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_138
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a7baa5080a4e4a0800000000000000
+      internalID: -6564945883661895117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_139
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab3a6faae8e0ab50800000000000000
+      internalID: 6602533148388113322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_140
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c60be7696e78d8f0800000000000000
+      internalID: -515523166153799999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_141
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5698d0f4cf335f670800000000000000
+      internalID: 8571814624520669541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_142
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d1318831fe9e5c0800000000000000
+      internalID: -4185551511497794264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_143
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601e3967349ae92a0800000000000000
+      internalID: -6728754686027636474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cef4c1e9c4e8f7b0800000000000000
+      internalID: -5190147014817153341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeaf310016232bb0800000000000000
+      internalID: -4962080514249871640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_146
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09a071c3d40e27a0800000000000000
+      internalID: -6400172712916899572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db93dfda77d7bf30800000000000000
+      internalID: 4591375267868679124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e6eea3277ee010800000000000000
+      internalID: 1220043544205910973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_149
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77878bc5ab746380800000000000000
+      internalID: -8978915805055449222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_150
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed20b012c4deb29e0800000000000000
+      internalID: -1644960327646117154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_151
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59ed6cfb8e965f50800000000000000
+      internalID: 6869852605672974684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_152
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db927c711c19d74e0800000000000000
+      internalID: -1982268002459506243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_153
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ba72c2347b2f910800000000000000
+      internalID: 1869758294443666242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_154
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12e4034854e3b810800000000000000
+      internalID: 1780017345474126363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_155
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfa81e027fea81f0800000000000000
+      internalID: -1041757090641039412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_156
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59388f71302a1000800000000000000
+      internalID: 7353746359597404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_157
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f682e8617b56de0800000000000000
+      internalID: -1340464006570676445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_158
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601a82c4bbfe01420800000000000000
+      internalID: 2598840572708430086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_159
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5329d0837767c62a0800000000000000
+      internalID: -6742884287666875851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea6618f127db0400800000000000000
+      internalID: 291563141791640292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc7b4b9f94db9e20800000000000000
+      internalID: 3358511729105140953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b177c75ea610dd90800000000000000
+      internalID: -7075130076546240074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e400f28b82b3bd70800000000000000
+      internalID: 9057779587839165664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_164
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093cc1cb8befda7a0800000000000000
+      internalID: -6364150629021203568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_165
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcc4a0b4b743c270800000000000000
+      internalID: 8269532182165638393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_166
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93588b9a5238b69a0800000000000000
+      internalID: -6238748661007219399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_167
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2950566ce93edfbe0800000000000000
+      internalID: -1441746034615843438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_168
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be2b63d8901747f0800000000000000
+      internalID: -628515374426804555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_169
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad7338e6c440d310800000000000000
+      internalID: 1427716702966349216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_170
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22366e770f225ca30800000000000000
+      internalID: 4234829440810902306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_171
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea76edd56b487b0800000000000000
+      internalID: -5222849153563382063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_172
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34c934a293c0b850800000000000000
+      internalID: 6390822905826624573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_173
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a213ec7b85ef6fe20800000000000000
+      internalID: 3384171827009827114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_174
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a5ad2e843055730800000000000000
+      internalID: 3987096656684931663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_175
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff099ad305b0aba0800000000000000
+      internalID: -6079660468793176069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee66e63a4cf7ed30800000000000000
+      internalID: 4460811351612616426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e280f4712a5539c0800000000000000
+      internalID: -3948150398578031904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5ead6ed61b47b60800000000000000
+      internalID: 7743008744939382203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845a68ca006c0b60800000000000000
+      internalID: 7713645861207168143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_180
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8762551e9eb7a0420800000000000000
+      internalID: 2597024379570562680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_181
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001ca981523fbb9c0800000000000000
+      internalID: -3910264510789009152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_182
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3c7454512b7e1c0800000000000000
+      internalID: -4474411900342909961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_183
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad9e35ed3758d3f0800000000000000
+      internalID: -875854204172853853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_184
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ff23f98724c1c10800000000000000
+      internalID: 2025567018244308779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_185
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2146cec9daff180800000000000000
+      internalID: -9079347434263145804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_186
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a54bebbdba84260800000000000000
+      internalID: 7082099374325783065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_187
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e8d0049401a7670800000000000000
+      internalID: 8537153950427483723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_188
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c892acbfd7f87e0800000000000000
+      internalID: -1761050408896590693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_189
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168d54006fcf3f880800000000000000
+      internalID: -8578234731713931167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_190
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eb5c47ffb90e480800000000000000
+      internalID: -8871919744441794921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_191
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ab42ea97bf840b0800000000000000
+      internalID: -5744064824679810470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac66ca08d5154590800000000000000
+      internalID: -7690716771027358545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8cdde22f9c28420800000000000000
+      internalID: 2630887174343346399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_194
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3c9ce9a5d15efc0800000000000000
+      internalID: -3466332063143443461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_195
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0a638ac77dad880800000000000000
+      internalID: -8585312809230360396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_196
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d231c5673c1605ed0800000000000000
+      internalID: -2427332707020434643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_197
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ed5b569cca21240800000000000000
+      internalID: 4761057737078857229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_198
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8218fb3152feb9840800000000000000
+      internalID: 5232038334645109032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_199
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b1ff3d667a10e70800000000000000
+      internalID: 9079722383840844611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_200
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5c1a46d39dc7d20800000000000000
+      internalID: 3277733486523434487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_201
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16c42cf30396d5d0800000000000000
+      internalID: -3038079253290367461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_202
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84199bc3f47954340800000000000000
+      internalID: 4847446940511211848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_203
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a0de6c92c524830800000000000000
+      internalID: 4053903949087705610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_204
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a5049eaa055df40800000000000000
+      internalID: 5752592794023647871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_205
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f599a8ee88f7cf10800000000000000
+      internalID: 2290072228213659126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_206
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b93cce68a880e30800000000000000
+      internalID: 4469974942267710299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_207
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b8ec228144d8f90800000000000000
+      internalID: -6949823779508942052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce426d8bc7a99920800000000000000
+      internalID: 2997611519684005579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_209
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2febb471ae8c630800000000000000
+      internalID: 3947662459166192347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_210
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd8f5019bf95c110800000000000000
+      internalID: 1280605286249238015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_211
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406229d2d4c2c7800800000000000000
+      internalID: 611412359404201476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_212
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12ba382480de32a0800000000000000
+      internalID: -6755733124979969505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_213
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c6161bfc5de6910800000000000000
+      internalID: 1832637186397269030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_214
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae275d40232dfa430800000000000000
+      internalID: 3796484123167912682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_215
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687fd69e944f5980800000000000000
+      internalID: -8548038119799162772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_216
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b0d746b310bb3e0800000000000000
+      internalID: -2037033051854402670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_217
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984d3c33f98e10640800000000000000
+      internalID: 5044568828097582217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_218
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd68b6067b9c41220800000000000000
+      internalID: 2455809486257620701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_219
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae13e2091a868e2b0800000000000000
+      internalID: -5555075097243536918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_220
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9035700f82ab14ff0800000000000000
+      internalID: -53557035563265271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_221
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec37bbfc0145e7260800000000000000
+      internalID: 7097202493963858894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_222
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e2503f36861f990800000000000000
+      internalID: -7353981938031055313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_223
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1aa3e5f815548e0800000000000000
+      internalID: -1709870807314161164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d3e42e2150f5720800000000000000
+      internalID: 2836991868931030280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_225
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a4441d731e47990800000000000000
+      internalID: -7389033458757776777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_226
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7178bdd72ebbeac0800000000000000
+      internalID: -3824754380088249989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_227
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca693667fd06a13f0800000000000000
+      internalID: -929323860218374484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_228
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4b25f72a8398980800000000000000
+      internalID: -8536229348132080464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_229
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aac531c2bf3fa00800000000000000
+      internalID: 789250526441941513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_230
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0077bfe5f84029da0800000000000000
+      internalID: -5939679944727890176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_231
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83631aa0a72390f0800000000000000
+      internalID: -1111501112028732531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_232
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d81bf8848630f20800000000000000
+      internalID: 3387666005570456953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_233
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbbbf72a975a1d10800000000000000
+      internalID: 2097084896101776333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_234
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c91b9b1feb2d90800000000000000
+      internalID: -7121335483910993642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_235
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880c79094ce73bf30800000000000000
+      internalID: 4590151827925221512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_236
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e7a92cd5128c40800000000000000
+      internalID: 5512992929190764773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_237
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d14f8fcd37eb08c0800000000000000
+      internalID: -4031874788718853674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_238
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f4b4d660b95170800000000000000
+      internalID: 8167753354914887520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_239
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9955855d00a8e6520800000000000000
+      internalID: 2697244963025474969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44c100725b7b1a90800000000000000
+      internalID: -7342139173500763059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_241
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3026dd9089eea4230800000000000000
+      internalID: 3623971186940928515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_242
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c48fb497295d93d0800000000000000
+      internalID: -3198302133829008185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_243
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000bbfe68472f1af0800000000000000
+      internalID: -423576647896420352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_244
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f8dae8aac86500800000000000000
+      internalID: 389784194610950778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_245
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999f325871a1dde80800000000000000
+      internalID: -8152331062150432359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_246
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814007943fc69e780800000000000000
+      internalID: -8653265416850766824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_247
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6f828231ae85490800000000000000
+      internalID: -7757192990146627935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_248
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b31e68c87fb72a0800000000000000
+      internalID: -6738520234499425522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_249
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997ad821877584780800000000000000
+      internalID: -8698606507047147623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_250
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942c40590d0fa5850800000000000000
+      internalID: 6366665801885598281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_251
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62be8b210c8646c50800000000000000
+      internalID: 6657561323317553958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_252
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c932519be93693f0800000000000000
+      internalID: -894463792068281913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_253
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5991ade0633037940800000000000000
+      internalID: 5292577517802756501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_254
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5d32e6b3629d910800000000000000
+      internalID: 1862561957587178937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Winter@128x128_255
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d1fa4a4103f4000800000000000000
+      internalID: 22289388380560662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Town 2 Winter@128x128_242: -3198302133829008185
+      Town 2 Winter@128x128_66: 1829473132870753418
+      Town 2 Winter@128x128_192: -7690716771027358545
+      Town 2 Winter@128x128_240: -7342139173500763059
+      Town 2 Winter@128x128_116: -2172581768559265936
+      Town 2 Winter@128x128_95: -434613174524774026
+      Town 2 Winter@128x128_3: -6751673049016455666
+      Town 2 Winter@128x128_178: 7743008744939382203
+      Town 2 Winter@128x128_255: 22289388380560662
+      Town 2 Winter@128x128_212: -6755733124979969505
+      Town 2 Winter@128x128_51: 7414942568422727159
+      Town 2 Winter@128x128_135: 8245594642617653384
+      Town 2 Winter@128x128_243: -423576647896420352
+      Town 2 Winter@128x128_153: 1869758294443666242
+      Town 2 Winter@128x128_23: -8219024200557685144
+      Town 2 Winter@128x128_70: 5911840613476416880
+      Town 2 Winter@128x128_182: -4474411900342909961
+      Town 2 Winter@128x128_140: -515523166153799999
+      Town 2 Winter@128x128_9: -1587325786578877943
+      Town 2 Winter@128x128_81: -2038118423383162315
+      Town 2 Winter@128x128_208: 2997611519684005579
+      Town 2 Winter@128x128_127: 2067650217436692145
+      Town 2 Winter@128x128_67: 3194556202483672340
+      Town 2 Winter@128x128_74: -6483028695882141151
+      Town 2 Winter@128x128_201: -3038079253290367461
+      Town 2 Winter@128x128_219: -5555075097243536918
+      Town 2 Winter@128x128_69: -2559803358202785948
+      Town 2 Winter@128x128_36: -5503951966296121006
+      Town 2 Winter@128x128_72: -8313002218926915389
+      Town 2 Winter@128x128_90: 7902592213083780296
+      Town 2 Winter@128x128_113: -3079978989405642020
+      Town 2 Winter@128x128_19: -304412903493959228
+      Town 2 Winter@128x128_130: -9054862494829074419
+      Town 2 Winter@128x128_76: -2321306814523584270
+      Town 2 Winter@128x128_80: 9033877165813517403
+      Town 2 Winter@128x128_217: 5044568828097582217
+      Town 2 Winter@128x128_245: -8152331062150432359
+      Town 2 Winter@128x128_143: -6728754686027636474
+      Town 2 Winter@128x128_83: 2863226571151982262
+      Town 2 Winter@128x128_92: 1954477539208801450
+      Town 2 Winter@128x128_26: 2201668784100139854
+      Town 2 Winter@128x128_145: -4962080514249871640
+      Town 2 Winter@128x128_165: 8269532182165638393
+      Town 2 Winter@128x128_39: 5380787569651239051
+      Town 2 Winter@128x128_16: 3504537470186757533
+      Town 2 Winter@128x128_224: 2836991868931030280
+      Town 2 Winter@128x128_99: 2145816154288664542
+      Town 2 Winter@128x128_94: 4308881719943993126
+      Town 2 Winter@128x128_18: -6992466197278445644
+      Town 2 Winter@128x128_12: 9134144437022168899
+      Town 2 Winter@128x128_198: 5232038334645109032
+      Town 2 Winter@128x128_144: -5190147014817153341
+      Town 2 Winter@128x128_73: -2408162739049294168
+      Town 2 Winter@128x128_59: 3752480849048530104
+      Town 2 Winter@128x128_82: 3447522443437297949
+      Town 2 Winter@128x128_114: 5038525853849469224
+      Town 2 Winter@128x128_125: -6435120952866680720
+      Town 2 Winter@128x128_20: -3933461692276811742
+      Town 2 Winter@128x128_137: -8933273836161269573
+      Town 2 Winter@128x128_93: 3945742684472928561
+      Town 2 Winter@128x128_223: -1709870807314161164
+      Town 2 Winter@128x128_50: 8725369220296840237
+      Town 2 Winter@128x128_54: -3448977650069811191
+      Town 2 Winter@128x128_43: 2655441154893315600
+      Town 2 Winter@128x128_180: 2597024379570562680
+      Town 2 Winter@128x128_149: -8978915805055449222
+      Town 2 Winter@128x128_211: 611412359404201476
+      Town 2 Winter@128x128_49: -3183719817729232642
+      Town 2 Winter@128x128_86: 3120950572615100246
+      Town 2 Winter@128x128_52: 7822482428803006744
+      Town 2 Winter@128x128_71: -1631906300034013752
+      Town 2 Winter@128x128_244: 389784194610950778
+      Town 2 Winter@128x128_37: -7453092119033819053
+      Town 2 Winter@128x128_142: -4185551511497794264
+      Town 2 Winter@128x128_196: -2427332707020434643
+      Town 2 Winter@128x128_222: -7353981938031055313
+      Town 2 Winter@128x128_63: 1405050481938896847
+      Town 2 Winter@128x128_138: -6564945883661895117
+      Town 2 Winter@128x128_5: -7720713819544924924
+      Town 2 Winter@128x128_176: 4460811351612616426
+      Town 2 Winter@128x128_111: -1973795057960826080
+      Town 2 Winter@128x128_117: 3664700888953333071
+      Town 2 Winter@128x128_167: -1441746034615843438
+      Town 2 Winter@128x128_181: -3910264510789009152
+      Town 2 Winter@128x128_183: -875854204172853853
+      Town 2 Winter@128x128_221: 7097202493963858894
+      Town 2 Winter@128x128_225: -7389033458757776777
+      Town 2 Winter@128x128_188: -1761050408896590693
+      Town 2 Winter@128x128_35: -2892610598691439782
+      Town 2 Winter@128x128_10: -945179121370362461
+      Town 2 Winter@128x128_161: 3358511729105140953
+      Town 2 Winter@128x128_121: 6470574994152663846
+      Town 2 Winter@128x128_238: 8167753354914887520
+      Town 2 Winter@128x128_247: -7757192990146627935
+      Town 2 Winter@128x128_168: -628515374426804555
+      Town 2 Winter@128x128_148: 1220043544205910973
+      Town 2 Winter@128x128_109: -6019495144552578410
+      Town 2 Winter@128x128_30: 6987517631862004440
+      Town 2 Winter@128x128_68: 1040352487163191688
+      Town 2 Winter@128x128_61: 876648560906513228
+      Town 2 Winter@128x128_203: 4053903949087705610
+      Town 2 Winter@128x128_220: -53557035563265271
+      Town 2 Winter@128x128_91: 2683181133646523913
+      Town 2 Winter@128x128_133: 9169533662697894629
+      Town 2 Winter@128x128_158: 2598840572708430086
+      Town 2 Winter@128x128_174: 3987096656684931663
+      Town 2 Winter@128x128_253: 5292577517802756501
+      Town 2 Winter@128x128_128: 6283168096774612511
+      Town 2 Winter@128x128_139: 6602533148388113322
+      Town 2 Winter@128x128_28: -4212633516428522647
+      Town 2 Winter@128x128_232: 3387666005570456953
+      Town 2 Winter@128x128_25: 1309289105991261714
+      Town 2 Winter@128x128_246: -8653265416850766824
+      Town 2 Winter@128x128_230: -5939679944727890176
+      Town 2 Winter@128x128_88: 8823464360810112422
+      Town 2 Winter@128x128_154: 1780017345474126363
+      Town 2 Winter@128x128_146: -6400172712916899572
+      Town 2 Winter@128x128_169: 1427716702966349216
+      Town 2 Winter@128x128_202: 4847446940511211848
+      Town 2 Winter@128x128_101: -5356461359122256789
+      Town 2 Winter@128x128_205: 2290072228213659126
+      Town 2 Winter@128x128_193: 2630887174343346399
+      Town 2 Winter@128x128_57: -3154469763896131875
+      Town 2 Winter@128x128_189: -8578234731713931167
+      Town 2 Winter@128x128_106: 4980792605702773499
+      Town 2 Winter@128x128_152: -1982268002459506243
+      Town 2 Winter@128x128_227: -929323860218374484
+      Town 2 Winter@128x128_100: -3098414081408578849
+      Town 2 Winter@128x128_1: -3362911394595629147
+      Town 2 Winter@128x128_215: -8548038119799162772
+      Town 2 Winter@128x128_159: -6742884287666875851
+      Town 2 Winter@128x128_172: 6390822905826624573
+      Town 2 Winter@128x128_2: -2916237400441385928
+      Town 2 Winter@128x128_239: 2697244963025474969
+      Town 2 Winter@128x128_14: -4702469544322442167
+      Town 2 Winter@128x128_150: -1644960327646117154
+      Town 2 Winter@128x128_185: -9079347434263145804
+      Town 2 Winter@128x128_22: 111025815312631789
+      Town 2 Winter@128x128_122: -4099701490273702632
+      Town 2 Winter@128x128_98: -975822674042793484
+      Town 2 Winter@128x128_155: -1041757090641039412
+      Town 2 Winter@128x128_248: -6738520234499425522
+      Town 2 Winter@128x128_112: -3869740432913940319
+      Town 2 Winter@128x128_34: 9107845027778713005
+      Town 2 Winter@128x128_29: -4015436936146268951
+      Town 2 Winter@128x128_89: 1287892799463425701
+      Town 2 Winter@128x128_21: 8800738649347889043
+      Town 2 Winter@128x128_58: 4475238500735652696
+      Town 2 Winter@128x128_123: -8193689615245922544
+      Town 2 Winter@128x128_241: 3623971186940928515
+      Town 2 Winter@128x128_64: -7760402767938659888
+      Town 2 Winter@128x128_164: -6364150629021203568
+      Town 2 Winter@128x128_249: -8698606507047147623
+      Town 2 Winter@128x128_124: -6170070238528691396
+      Town 2 Winter@128x128_24: -2399011131351771302
+      Town 2 Winter@128x128_191: -5744064824679810470
+      Town 2 Winter@128x128_103: 3435247580487771957
+      Town 2 Winter@128x128_33: 4718848014055592074
+      Town 2 Winter@128x128_171: -5222849153563382063
+      Town 2 Winter@128x128_4: 7855621613094642413
+      Town 2 Winter@128x128_7: -3074849008757874438
+      Town 2 Winter@128x128_75: 4042814073752167157
+      Town 2 Winter@128x128_175: -6079660468793176069
+      Town 2 Winter@128x128_228: -8536229348132080464
+      Town 2 Winter@128x128_216: -2037033051854402670
+      Town 2 Winter@128x128_163: 9057779587839165664
+      Town 2 Winter@128x128_229: 789250526441941513
+      Town 2 Winter@128x128_252: -894463792068281913
+      Town 2 Winter@128x128_65: -4731131850263438015
+      Town 2 Winter@128x128_136: -3148129812858830173
+      Town 2 Winter@128x128_104: -1551444040794271861
+      Town 2 Winter@128x128_199: 9079722383840844611
+      Town 2 Winter@128x128_15: -4195617497994736278
+      Town 2 Winter@128x128_209: 3947662459166192347
+      Town 2 Winter@128x128_87: -918542351809264348
+      Town 2 Winter@128x128_41: -6313701138871105080
+      Town 2 Winter@128x128_213: 1832637186397269030
+      Town 2 Winter@128x128_170: 4234829440810902306
+      Town 2 Winter@128x128_179: 7713645861207168143
+      Town 2 Winter@128x128_218: 2455809486257620701
+      Town 2 Winter@128x128_46: 8440374185497547338
+      Town 2 Winter@128x128_206: 4469974942267710299
+      Town 2 Winter@128x128_78: -9074999333982652278
+      Town 2 Winter@128x128_184: 2025567018244308779
+      Town 2 Winter@128x128_40: -4835137073243572743
+      Town 2 Winter@128x128_110: -5484452499608049997
+      Town 2 Winter@128x128_115: -1066216121023419759
+      Town 2 Winter@128x128_47: -2975689893015362157
+      Town 2 Winter@128x128_79: -7193380273194028713
+      Town 2 Winter@128x128_197: 4761057737078857229
+      Town 2 Winter@128x128_195: -8585312809230360396
+      Town 2 Winter@128x128_254: 1862561957587178937
+      Town 2 Winter@128x128_0: -9063025153379559569
+      Town 2 Winter@128x128_107: 1723708005459767966
+      Town 2 Winter@128x128_231: -1111501112028732531
+      Town 2 Winter@128x128_177: -3948150398578031904
+      Town 2 Winter@128x128_226: -3824754380088249989
+      Town 2 Winter@128x128_31: 1232512213299429897
+      Town 2 Winter@128x128_56: 6498218725219492263
+      Town 2 Winter@128x128_160: 291563141791640292
+      Town 2 Winter@128x128_97: 4414882948099262684
+      Town 2 Winter@128x128_84: 5083742844590392897
+      Town 2 Winter@128x128_108: 1730352573201920559
+      Town 2 Winter@128x128_250: 6366665801885598281
+      Town 2 Winter@128x128_234: -7121335483910993642
+      Town 2 Winter@128x128_156: 7353746359597404
+      Town 2 Winter@128x128_8: -1504004361352627786
+      Town 2 Winter@128x128_53: -3776061297138709745
+      Town 2 Winter@128x128_173: 3384171827009827114
+      Town 2 Winter@128x128_11: -2315299102016285828
+      Town 2 Winter@128x128_48: 5355267248349915103
+      Town 2 Winter@128x128_132: -5106856890442874089
+      Town 2 Winter@128x128_119: -32669826515130813
+      Town 2 Winter@128x128_186: 7082099374325783065
+      Town 2 Winter@128x128_44: 6517765743605729976
+      Town 2 Winter@128x128_85: -7600917897726591708
+      Town 2 Winter@128x128_166: -6238748661007219399
+      Town 2 Winter@128x128_38: -4839492586040342078
+      Town 2 Winter@128x128_151: 6869852605672974684
+      Town 2 Winter@128x128_17: 4166161204309062940
+      Town 2 Winter@128x128_141: 8571814624520669541
+      Town 2 Winter@128x128_6: 6841617979442583777
+      Town 2 Winter@128x128_45: 3328696916008947553
+      Town 2 Winter@128x128_60: 6912410089708700280
+      Town 2 Winter@128x128_157: -1340464006570676445
+      Town 2 Winter@128x128_105: 2592194791125349924
+      Town 2 Winter@128x128_96: -3965360424668981510
+      Town 2 Winter@128x128_102: 2797745530294210982
+      Town 2 Winter@128x128_42: 3062422403186295835
+      Town 2 Winter@128x128_204: 5752592794023647871
+      Town 2 Winter@128x128_131: -8439148584513548902
+      Town 2 Winter@128x128_237: -4031874788718853674
+      Town 2 Winter@128x128_27: 7712172372504642687
+      Town 2 Winter@128x128_187: 8537153950427483723
+      Town 2 Winter@128x128_32: -2016017477371528053
+      Town 2 Winter@128x128_55: -4805964291402913581
+      Town 2 Winter@128x128_126: 4495628020114298658
+      Town 2 Winter@128x128_207: -6949823779508942052
+      Town 2 Winter@128x128_210: 1280605286249238015
+      Town 2 Winter@128x128_120: 4734265092118043296
+      Town 2 Winter@128x128_62: 3442879300835174870
+      Town 2 Winter@128x128_118: 1253628759778607567
+      Town 2 Winter@128x128_233: 2097084896101776333
+      Town 2 Winter@128x128_235: 4590151827925221512
+      Town 2 Winter@128x128_236: 5512992929190764773
+      Town 2 Winter@128x128_251: 6657561323317553958
+      Town 2 Winter@128x128_77: 7114922994859865623
+      Town 2 Winter@128x128_13: -1183083980585606695
+      Town 2 Winter@128x128_147: 4591375267868679124
+      Town 2 Winter@128x128_134: 5598606506859147499
+      Town 2 Winter@128x128_190: -8871919744441794921
+      Town 2 Winter@128x128_214: 3796484123167912682
+      Town 2 Winter@128x128_194: -3466332063143443461
+      Town 2 Winter@128x128_162: -7075130076546240074
+      Town 2 Winter@128x128_129: -1509116088706149891
+      Town 2 Winter@128x128_200: 3277733486523434487
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

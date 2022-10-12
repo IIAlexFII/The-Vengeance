@@ -1,0 +1,6522 @@
+fileFormatVersion: 2
+guid: beba1163335921643af52cbdb9d8803d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2466362455170470991
+    second: Town 2 Color 3@128x128_0
+  - first:
+      213: 4851361349750209101
+    second: Town 2 Color 3@128x128_1
+  - first:
+      213: 459805422601255729
+    second: Town 2 Color 3@128x128_2
+  - first:
+      213: -4568237469092385132
+    second: Town 2 Color 3@128x128_3
+  - first:
+      213: -2017231199162781839
+    second: Town 2 Color 3@128x128_4
+  - first:
+      213: 691473725808618257
+    second: Town 2 Color 3@128x128_5
+  - first:
+      213: 4228837929845379481
+    second: Town 2 Color 3@128x128_6
+  - first:
+      213: 5256367024471077887
+    second: Town 2 Color 3@128x128_7
+  - first:
+      213: 224256458568097966
+    second: Town 2 Color 3@128x128_8
+  - first:
+      213: -7288731205584613587
+    second: Town 2 Color 3@128x128_9
+  - first:
+      213: 2060246116688992830
+    second: Town 2 Color 3@128x128_10
+  - first:
+      213: -8960418816940075053
+    second: Town 2 Color 3@128x128_11
+  - first:
+      213: -426088280148241461
+    second: Town 2 Color 3@128x128_12
+  - first:
+      213: -7308474135960167043
+    second: Town 2 Color 3@128x128_13
+  - first:
+      213: -8046785387417089495
+    second: Town 2 Color 3@128x128_14
+  - first:
+      213: 9211223981558707951
+    second: Town 2 Color 3@128x128_15
+  - first:
+      213: 2374634385451698489
+    second: Town 2 Color 3@128x128_16
+  - first:
+      213: -1980654228851082899
+    second: Town 2 Color 3@128x128_17
+  - first:
+      213: 9221674931722351548
+    second: Town 2 Color 3@128x128_18
+  - first:
+      213: 5144254642282757156
+    second: Town 2 Color 3@128x128_19
+  - first:
+      213: 1085256491971826475
+    second: Town 2 Color 3@128x128_20
+  - first:
+      213: 3887570277729901131
+    second: Town 2 Color 3@128x128_21
+  - first:
+      213: -1126214699443466815
+    second: Town 2 Color 3@128x128_22
+  - first:
+      213: -1704793113431126092
+    second: Town 2 Color 3@128x128_23
+  - first:
+      213: 2765820861507978615
+    second: Town 2 Color 3@128x128_24
+  - first:
+      213: 4922251076206207500
+    second: Town 2 Color 3@128x128_25
+  - first:
+      213: 8127297987989244061
+    second: Town 2 Color 3@128x128_26
+  - first:
+      213: -4310369152303059468
+    second: Town 2 Color 3@128x128_27
+  - first:
+      213: 8484323918669135198
+    second: Town 2 Color 3@128x128_28
+  - first:
+      213: -7719727826665388598
+    second: Town 2 Color 3@128x128_29
+  - first:
+      213: -7382263688504273239
+    second: Town 2 Color 3@128x128_30
+  - first:
+      213: -7364907414877026030
+    second: Town 2 Color 3@128x128_31
+  - first:
+      213: -8573906776511798222
+    second: Town 2 Color 3@128x128_32
+  - first:
+      213: -5987256259459518634
+    second: Town 2 Color 3@128x128_33
+  - first:
+      213: 5140966183313644734
+    second: Town 2 Color 3@128x128_34
+  - first:
+      213: -8616654690183212568
+    second: Town 2 Color 3@128x128_35
+  - first:
+      213: -2136951572025603399
+    second: Town 2 Color 3@128x128_36
+  - first:
+      213: -3971387496583797755
+    second: Town 2 Color 3@128x128_37
+  - first:
+      213: -3382467206027440868
+    second: Town 2 Color 3@128x128_38
+  - first:
+      213: 134853539901204314
+    second: Town 2 Color 3@128x128_39
+  - first:
+      213: -5809349972806406865
+    second: Town 2 Color 3@128x128_40
+  - first:
+      213: 469134373247222658
+    second: Town 2 Color 3@128x128_41
+  - first:
+      213: -6668958128839313680
+    second: Town 2 Color 3@128x128_42
+  - first:
+      213: -5395895099556102927
+    second: Town 2 Color 3@128x128_43
+  - first:
+      213: -2978226824976892135
+    second: Town 2 Color 3@128x128_44
+  - first:
+      213: 3590503202159194915
+    second: Town 2 Color 3@128x128_45
+  - first:
+      213: 5316333422895620845
+    second: Town 2 Color 3@128x128_46
+  - first:
+      213: -3881326333694383586
+    second: Town 2 Color 3@128x128_47
+  - first:
+      213: -3600479010450038746
+    second: Town 2 Color 3@128x128_48
+  - first:
+      213: -772296140522016366
+    second: Town 2 Color 3@128x128_49
+  - first:
+      213: -8034093696582061471
+    second: Town 2 Color 3@128x128_50
+  - first:
+      213: -7082472331891197000
+    second: Town 2 Color 3@128x128_51
+  - first:
+      213: 309965706235878357
+    second: Town 2 Color 3@128x128_52
+  - first:
+      213: -9007962791483747706
+    second: Town 2 Color 3@128x128_53
+  - first:
+      213: -7204623154830556859
+    second: Town 2 Color 3@128x128_54
+  - first:
+      213: -2782077044841328121
+    second: Town 2 Color 3@128x128_55
+  - first:
+      213: -5196124616414755385
+    second: Town 2 Color 3@128x128_56
+  - first:
+      213: -1524168666624096001
+    second: Town 2 Color 3@128x128_57
+  - first:
+      213: -7915368006212459156
+    second: Town 2 Color 3@128x128_58
+  - first:
+      213: 6973520903436604665
+    second: Town 2 Color 3@128x128_59
+  - first:
+      213: -8184015123259610597
+    second: Town 2 Color 3@128x128_60
+  - first:
+      213: -2404287588957423683
+    second: Town 2 Color 3@128x128_61
+  - first:
+      213: -6951347779630502881
+    second: Town 2 Color 3@128x128_62
+  - first:
+      213: -6457949579672620385
+    second: Town 2 Color 3@128x128_63
+  - first:
+      213: -2121027615417437698
+    second: Town 2 Color 3@128x128_64
+  - first:
+      213: -5008486719639789125
+    second: Town 2 Color 3@128x128_65
+  - first:
+      213: -592239925478222135
+    second: Town 2 Color 3@128x128_66
+  - first:
+      213: -2103216871630752454
+    second: Town 2 Color 3@128x128_67
+  - first:
+      213: -8879151023343241335
+    second: Town 2 Color 3@128x128_68
+  - first:
+      213: -41627608946205782
+    second: Town 2 Color 3@128x128_69
+  - first:
+      213: 3617661763578865658
+    second: Town 2 Color 3@128x128_70
+  - first:
+      213: -3997665332164001351
+    second: Town 2 Color 3@128x128_71
+  - first:
+      213: 2206568265259795491
+    second: Town 2 Color 3@128x128_72
+  - first:
+      213: 3428576713383122144
+    second: Town 2 Color 3@128x128_73
+  - first:
+      213: 5179507964545594798
+    second: Town 2 Color 3@128x128_74
+  - first:
+      213: -4296467079358301295
+    second: Town 2 Color 3@128x128_75
+  - first:
+      213: 8098297096032845844
+    second: Town 2 Color 3@128x128_76
+  - first:
+      213: 3556094334840877662
+    second: Town 2 Color 3@128x128_77
+  - first:
+      213: 4518010198172158611
+    second: Town 2 Color 3@128x128_78
+  - first:
+      213: -8787653616856975260
+    second: Town 2 Color 3@128x128_79
+  - first:
+      213: 1476256455202056174
+    second: Town 2 Color 3@128x128_80
+  - first:
+      213: 3448787156864398956
+    second: Town 2 Color 3@128x128_81
+  - first:
+      213: 8685231663190442283
+    second: Town 2 Color 3@128x128_82
+  - first:
+      213: 719846245410422525
+    second: Town 2 Color 3@128x128_83
+  - first:
+      213: 4377826199482074849
+    second: Town 2 Color 3@128x128_84
+  - first:
+      213: -1579878603219287121
+    second: Town 2 Color 3@128x128_85
+  - first:
+      213: 5639698847977998760
+    second: Town 2 Color 3@128x128_86
+  - first:
+      213: -1609645630854564708
+    second: Town 2 Color 3@128x128_87
+  - first:
+      213: 477314895373808657
+    second: Town 2 Color 3@128x128_88
+  - first:
+      213: -464910927699091973
+    second: Town 2 Color 3@128x128_89
+  - first:
+      213: 2218342730260785686
+    second: Town 2 Color 3@128x128_90
+  - first:
+      213: -8948228872517478147
+    second: Town 2 Color 3@128x128_91
+  - first:
+      213: 2988894734325601906
+    second: Town 2 Color 3@128x128_92
+  - first:
+      213: 9101432940835147933
+    second: Town 2 Color 3@128x128_93
+  - first:
+      213: -9085825628647974360
+    second: Town 2 Color 3@128x128_94
+  - first:
+      213: 7161290586164737873
+    second: Town 2 Color 3@128x128_95
+  - first:
+      213: 5080908067115534839
+    second: Town 2 Color 3@128x128_96
+  - first:
+      213: -603038366545513339
+    second: Town 2 Color 3@128x128_97
+  - first:
+      213: 4373257495987651349
+    second: Town 2 Color 3@128x128_98
+  - first:
+      213: -5900591558598697365
+    second: Town 2 Color 3@128x128_99
+  - first:
+      213: -7269050615168454056
+    second: Town 2 Color 3@128x128_100
+  - first:
+      213: 297598681266312241
+    second: Town 2 Color 3@128x128_101
+  - first:
+      213: 6643965766522396984
+    second: Town 2 Color 3@128x128_102
+  - first:
+      213: 2937056956439070359
+    second: Town 2 Color 3@128x128_103
+  - first:
+      213: 2655656220360567548
+    second: Town 2 Color 3@128x128_104
+  - first:
+      213: -6849753265223982374
+    second: Town 2 Color 3@128x128_105
+  - first:
+      213: -3354032883792942357
+    second: Town 2 Color 3@128x128_106
+  - first:
+      213: -8448661149062130504
+    second: Town 2 Color 3@128x128_107
+  - first:
+      213: -4722532194059166572
+    second: Town 2 Color 3@128x128_108
+  - first:
+      213: 8968075382180397036
+    second: Town 2 Color 3@128x128_109
+  - first:
+      213: -7430694603697116183
+    second: Town 2 Color 3@128x128_110
+  - first:
+      213: -7373987338968607726
+    second: Town 2 Color 3@128x128_111
+  - first:
+      213: -4717787104202889430
+    second: Town 2 Color 3@128x128_112
+  - first:
+      213: -916008246332765941
+    second: Town 2 Color 3@128x128_113
+  - first:
+      213: -6840339061692436196
+    second: Town 2 Color 3@128x128_114
+  - first:
+      213: 1795086559187749604
+    second: Town 2 Color 3@128x128_115
+  - first:
+      213: 1884555287387748394
+    second: Town 2 Color 3@128x128_116
+  - first:
+      213: -6649410497014204131
+    second: Town 2 Color 3@128x128_117
+  - first:
+      213: -4227221545279307999
+    second: Town 2 Color 3@128x128_118
+  - first:
+      213: -7716382416381467046
+    second: Town 2 Color 3@128x128_119
+  - first:
+      213: 3214168853946392898
+    second: Town 2 Color 3@128x128_120
+  - first:
+      213: -8018738477164343125
+    second: Town 2 Color 3@128x128_121
+  - first:
+      213: 4239716617966562889
+    second: Town 2 Color 3@128x128_122
+  - first:
+      213: -3951247904839609755
+    second: Town 2 Color 3@128x128_123
+  - first:
+      213: 9123429780770465573
+    second: Town 2 Color 3@128x128_124
+  - first:
+      213: 4219231480114535126
+    second: Town 2 Color 3@128x128_125
+  - first:
+      213: -3064793785946242706
+    second: Town 2 Color 3@128x128_126
+  - first:
+      213: 3017115057649491450
+    second: Town 2 Color 3@128x128_127
+  - first:
+      213: 298859330456967362
+    second: Town 2 Color 3@128x128_128
+  - first:
+      213: 2946879934695746358
+    second: Town 2 Color 3@128x128_129
+  - first:
+      213: -686564921262737198
+    second: Town 2 Color 3@128x128_130
+  - first:
+      213: -5118422930926195421
+    second: Town 2 Color 3@128x128_131
+  - first:
+      213: 4418046757760566813
+    second: Town 2 Color 3@128x128_132
+  - first:
+      213: -7746194323468775958
+    second: Town 2 Color 3@128x128_133
+  - first:
+      213: -7302975166662321733
+    second: Town 2 Color 3@128x128_134
+  - first:
+      213: -5001360569541067282
+    second: Town 2 Color 3@128x128_135
+  - first:
+      213: 7465162216728371123
+    second: Town 2 Color 3@128x128_136
+  - first:
+      213: -7828989090283461634
+    second: Town 2 Color 3@128x128_137
+  - first:
+      213: 3965545571175116038
+    second: Town 2 Color 3@128x128_138
+  - first:
+      213: 6532069674129329643
+    second: Town 2 Color 3@128x128_139
+  - first:
+      213: 675019626782788035
+    second: Town 2 Color 3@128x128_140
+  - first:
+      213: 2938472484601511225
+    second: Town 2 Color 3@128x128_141
+  - first:
+      213: 7927144858950768148
+    second: Town 2 Color 3@128x128_142
+  - first:
+      213: 1188787294492184059
+    second: Town 2 Color 3@128x128_143
+  - first:
+      213: 3311988408450683958
+    second: Town 2 Color 3@128x128_144
+  - first:
+      213: -2644271749632562494
+    second: Town 2 Color 3@128x128_145
+  - first:
+      213: 3486271208080023021
+    second: Town 2 Color 3@128x128_146
+  - first:
+      213: -2644451788964128135
+    second: Town 2 Color 3@128x128_147
+  - first:
+      213: 8292474080643777772
+    second: Town 2 Color 3@128x128_148
+  - first:
+      213: 8792890810765493547
+    second: Town 2 Color 3@128x128_149
+  - first:
+      213: 4070066304578609458
+    second: Town 2 Color 3@128x128_150
+  - first:
+      213: 5144472539865106520
+    second: Town 2 Color 3@128x128_151
+  - first:
+      213: 4596918367727615466
+    second: Town 2 Color 3@128x128_152
+  - first:
+      213: 5138186706300231967
+    second: Town 2 Color 3@128x128_153
+  - first:
+      213: -906672229136490116
+    second: Town 2 Color 3@128x128_154
+  - first:
+      213: 6868281757952847453
+    second: Town 2 Color 3@128x128_155
+  - first:
+      213: 2437208390326309470
+    second: Town 2 Color 3@128x128_156
+  - first:
+      213: -540531361488798406
+    second: Town 2 Color 3@128x128_157
+  - first:
+      213: -7648423766082250433
+    second: Town 2 Color 3@128x128_158
+  - first:
+      213: -813021376230643217
+    second: Town 2 Color 3@128x128_159
+  - first:
+      213: 1900755205907596588
+    second: Town 2 Color 3@128x128_160
+  - first:
+      213: 6343131909124244096
+    second: Town 2 Color 3@128x128_161
+  - first:
+      213: 6932440923614281533
+    second: Town 2 Color 3@128x128_162
+  - first:
+      213: 7761472912205150433
+    second: Town 2 Color 3@128x128_163
+  - first:
+      213: 4677961687933329635
+    second: Town 2 Color 3@128x128_164
+  - first:
+      213: -4289894032630869287
+    second: Town 2 Color 3@128x128_165
+  - first:
+      213: -3473098537026044942
+    second: Town 2 Color 3@128x128_166
+  - first:
+      213: 9079031367036147749
+    second: Town 2 Color 3@128x128_167
+  - first:
+      213: -1501107200032123227
+    second: Town 2 Color 3@128x128_168
+  - first:
+      213: 5006839465056718486
+    second: Town 2 Color 3@128x128_169
+  - first:
+      213: -8293531157650918992
+    second: Town 2 Color 3@128x128_170
+  - first:
+      213: -4860144795618547319
+    second: Town 2 Color 3@128x128_171
+  - first:
+      213: -5050231972875524433
+    second: Town 2 Color 3@128x128_172
+  - first:
+      213: 5847979758443322080
+    second: Town 2 Color 3@128x128_173
+  - first:
+      213: 6363127595354193134
+    second: Town 2 Color 3@128x128_174
+  - first:
+      213: -8450257267225661575
+    second: Town 2 Color 3@128x128_175
+  - first:
+      213: 661606087567361393
+    second: Town 2 Color 3@128x128_176
+  - first:
+      213: 132541904090795701
+    second: Town 2 Color 3@128x128_177
+  - first:
+      213: 5003015273760023981
+    second: Town 2 Color 3@128x128_178
+  - first:
+      213: 7346948018342673657
+    second: Town 2 Color 3@128x128_179
+  - first:
+      213: -6584472617759992340
+    second: Town 2 Color 3@128x128_180
+  - first:
+      213: 4409288307933676438
+    second: Town 2 Color 3@128x128_181
+  - first:
+      213: -3920195316411819053
+    second: Town 2 Color 3@128x128_182
+  - first:
+      213: -333548036163869249
+    second: Town 2 Color 3@128x128_183
+  - first:
+      213: -4221324731968612360
+    second: Town 2 Color 3@128x128_184
+  - first:
+      213: -5907086000675068746
+    second: Town 2 Color 3@128x128_185
+  - first:
+      213: -4478565265089151534
+    second: Town 2 Color 3@128x128_186
+  - first:
+      213: 5525261424932608169
+    second: Town 2 Color 3@128x128_187
+  - first:
+      213: 8797441827141973046
+    second: Town 2 Color 3@128x128_188
+  - first:
+      213: 5303659259460372351
+    second: Town 2 Color 3@128x128_189
+  - first:
+      213: -6910912553842589797
+    second: Town 2 Color 3@128x128_190
+  - first:
+      213: 6563486020671573986
+    second: Town 2 Color 3@128x128_191
+  - first:
+      213: 138861351596253611
+    second: Town 2 Color 3@128x128_192
+  - first:
+      213: -565001489393838810
+    second: Town 2 Color 3@128x128_193
+  - first:
+      213: 8244213437749891551
+    second: Town 2 Color 3@128x128_194
+  - first:
+      213: -3352911925605627105
+    second: Town 2 Color 3@128x128_195
+  - first:
+      213: -2551084334747612825
+    second: Town 2 Color 3@128x128_196
+  - first:
+      213: -2737379959790241298
+    second: Town 2 Color 3@128x128_197
+  - first:
+      213: 708761812349551453
+    second: Town 2 Color 3@128x128_198
+  - first:
+      213: 3837775872263251801
+    second: Town 2 Color 3@128x128_199
+  - first:
+      213: -2648398314660056618
+    second: Town 2 Color 3@128x128_200
+  - first:
+      213: 4356342486847861375
+    second: Town 2 Color 3@128x128_201
+  - first:
+      213: 3376589974911154066
+    second: Town 2 Color 3@128x128_202
+  - first:
+      213: 8484083456954813483
+    second: Town 2 Color 3@128x128_203
+  - first:
+      213: -7235420176547193605
+    second: Town 2 Color 3@128x128_204
+  - first:
+      213: 2506041709056411634
+    second: Town 2 Color 3@128x128_205
+  - first:
+      213: 4276394188972651944
+    second: Town 2 Color 3@128x128_206
+  - first:
+      213: 9015412162317493211
+    second: Town 2 Color 3@128x128_207
+  - first:
+      213: -6887465087946222808
+    second: Town 2 Color 3@128x128_208
+  - first:
+      213: 5415245889818686336
+    second: Town 2 Color 3@128x128_209
+  - first:
+      213: 2800593549651348620
+    second: Town 2 Color 3@128x128_210
+  - first:
+      213: -8992483421269782919
+    second: Town 2 Color 3@128x128_211
+  - first:
+      213: 5040120677907291805
+    second: Town 2 Color 3@128x128_212
+  - first:
+      213: 4617625978695610800
+    second: Town 2 Color 3@128x128_213
+  - first:
+      213: -8733766055588606721
+    second: Town 2 Color 3@128x128_214
+  - first:
+      213: -5124442107631142818
+    second: Town 2 Color 3@128x128_215
+  - first:
+      213: 5632799450453793199
+    second: Town 2 Color 3@128x128_216
+  - first:
+      213: 2627946465298003262
+    second: Town 2 Color 3@128x128_217
+  - first:
+      213: 6804578225219397843
+    second: Town 2 Color 3@128x128_218
+  - first:
+      213: 2408279415585356450
+    second: Town 2 Color 3@128x128_219
+  - first:
+      213: 4297483557777085741
+    second: Town 2 Color 3@128x128_220
+  - first:
+      213: 8980530130465586428
+    second: Town 2 Color 3@128x128_221
+  - first:
+      213: -9029194160458149255
+    second: Town 2 Color 3@128x128_222
+  - first:
+      213: 1929706205996364347
+    second: Town 2 Color 3@128x128_223
+  - first:
+      213: -4417487388862932912
+    second: Town 2 Color 3@128x128_224
+  - first:
+      213: -552477016877342907
+    second: Town 2 Color 3@128x128_225
+  - first:
+      213: 8253727053611660207
+    second: Town 2 Color 3@128x128_226
+  - first:
+      213: 3969521902631335653
+    second: Town 2 Color 3@128x128_227
+  - first:
+      213: 7273865394121018685
+    second: Town 2 Color 3@128x128_228
+  - first:
+      213: -3442982328633899977
+    second: Town 2 Color 3@128x128_229
+  - first:
+      213: 8745107948793248339
+    second: Town 2 Color 3@128x128_230
+  - first:
+      213: 652064517754863362
+    second: Town 2 Color 3@128x128_231
+  - first:
+      213: 5509534760580179096
+    second: Town 2 Color 3@128x128_232
+  - first:
+      213: 8875984153250012501
+    second: Town 2 Color 3@128x128_233
+  - first:
+      213: 6283376568543432035
+    second: Town 2 Color 3@128x128_234
+  - first:
+      213: -384038036539338405
+    second: Town 2 Color 3@128x128_235
+  - first:
+      213: 9204690725784909251
+    second: Town 2 Color 3@128x128_236
+  - first:
+      213: 9200233631172015800
+    second: Town 2 Color 3@128x128_237
+  - first:
+      213: 4734906722185822287
+    second: Town 2 Color 3@128x128_238
+  - first:
+      213: -2378453690492467910
+    second: Town 2 Color 3@128x128_239
+  - first:
+      213: -1594108178171555978
+    second: Town 2 Color 3@128x128_240
+  - first:
+      213: -6406336702831318682
+    second: Town 2 Color 3@128x128_241
+  - first:
+      213: -194578453559221632
+    second: Town 2 Color 3@128x128_242
+  - first:
+      213: 852051014791313922
+    second: Town 2 Color 3@128x128_243
+  - first:
+      213: -8945384775509997951
+    second: Town 2 Color 3@128x128_244
+  - first:
+      213: 654544366856601957
+    second: Town 2 Color 3@128x128_245
+  - first:
+      213: 7584878006326768829
+    second: Town 2 Color 3@128x128_246
+  - first:
+      213: 3082454370116712991
+    second: Town 2 Color 3@128x128_247
+  - first:
+      213: 1456790449349743478
+    second: Town 2 Color 3@128x128_248
+  - first:
+      213: 8149021954349093570
+    second: Town 2 Color 3@128x128_249
+  - first:
+      213: -3883428603379902063
+    second: Town 2 Color 3@128x128_250
+  - first:
+      213: -8639612627275229563
+    second: Town 2 Color 3@128x128_251
+  - first:
+      213: 7627517323123737921
+    second: Town 2 Color 3@128x128_252
+  - first:
+      213: -6075586780236547392
+    second: Town 2 Color 3@128x128_253
+  - first:
+      213: 5307429179300133312
+    second: Town 2 Color 3@128x128_254
+  - first:
+      213: 8319494816939050203
+    second: Town 2 Color 3@128x128_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb24341a68b5cdd0800000000000000
+      internalID: -2466362455170470991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4abbe8a17f735340800000000000000
+      internalID: 4851361349750209101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b32ff789e816600800000000000000
+      internalID: 459805422601255729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e6e15b93c5a90c0800000000000000
+      internalID: -4568237469092385132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f211089ea5104e0800000000000000
+      internalID: -2017231199162781839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ba656a0bb989900800000000000000
+      internalID: 691473725808618257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991d12d11b9dfaa30800000000000000
+      internalID: 4228837929845379481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3fca695fd52f840800000000000000
+      internalID: 5256367024471077887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0e9879f08bc1300800000000000000
+      internalID: 224256458568097966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f03dbf59939da90800000000000000
+      internalID: -7288731205584613587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a102f6de6779c10800000000000000
+      internalID: 2060246116688992830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d79f817f8236a380800000000000000
+      internalID: -8960418816940075053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc39eca77fa361af0800000000000000
+      internalID: -426088280148241461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dd6fbce75139a90800000000000000
+      internalID: -7308474135960167043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a4337e253145090800000000000000
+      internalID: -8046785387417089495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6bd577867d4df70800000000000000
+      internalID: 9211223981558707951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939c648646564f020800000000000000
+      internalID: 2374634385451698489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69b47a097d4384e0800000000000000
+      internalID: -1980654228851082899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb37f6bed78f9ff70800000000000000
+      internalID: 9221674931722351548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cfa6b7750146740800000000000000
+      internalID: 5144254642282757156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23da2e870b9f0f00800000000000000
+      internalID: 1085256491971826475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a1573029c63f530800000000000000
+      internalID: 3887570277729901131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd49d2a2b1ee50f0800000000000000
+      internalID: -1126214699443466815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc76a12bb5758e0800000000000000
+      internalID: -1704793113431126092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7754c8a6b6b226620800000000000000
+      internalID: 2765820861507978615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c022e8c46495f4440800000000000000
+      internalID: 4922251076206207500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9888d5b576f9c070800000000000000
+      internalID: 8127297987989244061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_27
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdac22e71e7e24c0800000000000000
+      internalID: -4310369152303059468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dbf93f6af5eb570800000000000000
+      internalID: 8484323918669135198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_29
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac549e841740ed490800000000000000
+      internalID: -7719727826665388598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a61078c94eec8990800000000000000
+      internalID: -7382263688504273239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2194d942ab79ac990800000000000000
+      internalID: -7364907414877026030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23423b8963d530980800000000000000
+      internalID: -8573906776511798222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f6ea3672ef8eca0800000000000000
+      internalID: -5987256259459518634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc94b67181685740800000000000000
+      internalID: 5140966183313644734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e11d67563e7b6880800000000000000
+      internalID: -8616654690183212568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba83370ed50852e0800000000000000
+      internalID: -2136951572025603399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504e1b8fc1cc2e8c0800000000000000
+      internalID: -3971387496583797755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d83584fff0f01d0800000000000000
+      internalID: -3382467206027440868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57e38e74981fd100800000000000000
+      internalID: 134853539901204314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2de2fe9afa016fa0800000000000000
+      internalID: -5809349972806406865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28383551a33b28600800000000000000
+      internalID: 469134373247222658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6349c5ae91373a0800000000000000
+      internalID: -6668958128839313680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcffa1eefded15b0800000000000000
+      internalID: -5395895099556102927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f76b46b763ba6d0800000000000000
+      internalID: -2978226824976892135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323f99993a704d130800000000000000
+      internalID: 3590503202159194915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2ea3bb41967c940800000000000000
+      internalID: 5316333422895620845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae6ce7342c22ac0800000000000000
+      internalID: -3881326333694383586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62020e88a67880ec0800000000000000
+      internalID: -3600479010450038746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291b7c280c04845f0800000000000000
+      internalID: -772296140522016366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1627503795a218090800000000000000
+      internalID: -8034093696582061471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbb71e40f006bd90800000000000000
+      internalID: -7082472331891197000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db1eb4ea283d4400800000000000000
+      internalID: 309965706235878357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682dcaf31994df280800000000000000
+      internalID: -9007962791483747706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54145c39969040c90800000000000000
+      internalID: -7204623154830556859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702d674faa31469d0800000000000000
+      internalID: -2782077044841328121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c58fed0138a3e7b0800000000000000
+      internalID: -5196124616414755385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff807105ca019dae0800000000000000
+      internalID: -1524168666624096001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65e63b5cb6f62290800000000000000
+      internalID: -7915368006212459156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4991b705ce6c060800000000000000
+      internalID: 6973520903436604665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_60
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aafad2b998c6e80800000000000000
+      internalID: -8184015123259610597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_61
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7ff422d2142aed0800000000000000
+      internalID: -2404287588957423683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c6ce4360ad78f90800000000000000
+      internalID: -6951347779630502881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92fa3ea211c066a0800000000000000
+      internalID: -6457949579672620385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1ff381f989092e0800000000000000
+      internalID: -2121027615417437698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1eb955dd74e7ab0800000000000000
+      internalID: -5008486719639789125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c61114fce0f7c7f0800000000000000
+      internalID: -592239925478222135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3537d8066fdfc2e0800000000000000
+      internalID: -2103216871630752454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9877492203be6c480800000000000000
+      internalID: -8879151023343241335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab99e309eb1c6ff0800000000000000
+      internalID: -41627608946205782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a1afe434843230800000000000000
+      internalID: 3617661763578865658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b188799f807588c0800000000000000
+      internalID: -3997665332164001351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c577752e4f9e10800000000000000
+      internalID: 2206568265259795491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_73
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4906efa50c49f20800000000000000
+      internalID: 3428576713383122144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5fb023d0f41e740800000000000000
+      internalID: 5179507964545594798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_75
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b30b974f1ef54c0800000000000000
+      internalID: -4296467079358301295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4108d9e5d4ee26070800000000000000
+      internalID: 8098297096032845844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_77
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5238ffd4f8c95130800000000000000
+      internalID: 3556094334840877662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_78
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ac4a9765233be30800000000000000
+      internalID: 4518010198172158611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_79
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468301e289bfb0680800000000000000
+      internalID: -8787653616856975260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee722b9ac67bc7410800000000000000
+      internalID: 1476256455202056174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66f4de85ad8cdf20800000000000000
+      internalID: 3448787156864398956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21017c6e24288870800000000000000
+      internalID: 8685231663190442283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe3696a8586df900800000000000000
+      internalID: 719846245410422525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e60784dbb921cc30800000000000000
+      internalID: 4377826199482074849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3cfdae7c4231ae0800000000000000
+      internalID: -1579878603219287121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a988e9c83c344e40800000000000000
+      internalID: 5639698847977998760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9477a6b3d369a9e0800000000000000
+      internalID: -1609645630854564708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11432c05e53cf9600800000000000000
+      internalID: 477314895373808657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd5c4679fd4c89f0800000000000000
+      internalID: -464910927699091973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aa34bb5f229ce10800000000000000
+      internalID: 2218342730260785686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_91
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df893bc004181d380800000000000000
+      internalID: -8948228872517478147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276538eccefaa7920800000000000000
+      internalID: 2988894734325601906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d909489c909ce4e70800000000000000
+      internalID: 9101432940835147933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a1c41cab9a8e180800000000000000
+      internalID: -9085825628647974360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_95
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157b2b198d3026360800000000000000
+      internalID: 7161290586164737873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f986dc97f2038640800000000000000
+      internalID: 5080908067115534839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5847f18fcc391a7f0800000000000000
+      internalID: -603038366545513339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51388a7a58ee0bc30800000000000000
+      internalID: 4373257495987651349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e5e097d33ec1ea0800000000000000
+      internalID: -5900591558598697365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852bc848af42f1b90800000000000000
+      internalID: -7269050615168454056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134d0828c68412400800000000000000
+      internalID: 297598681266312241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8316c65d9ab143c50800000000000000
+      internalID: 6643965766522396984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79604ad9db582c820800000000000000
+      internalID: 2937056956439070359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfae52c1349cad420800000000000000
+      internalID: 2655656220360567548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2a04362b9c0f0a0800000000000000
+      internalID: -6849753265223982374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaea84dcd41471d0800000000000000
+      internalID: -3354032883792942357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b41286a27350ca80800000000000000
+      internalID: -8448661149062130504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cd1c49df1367eb0800000000000000
+      internalID: -4722532194059166572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_109
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb9c19b01057c70800000000000000
+      internalID: 8968075382180397036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_110
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eba830a0aed0e890800000000000000
+      internalID: -7430694603697116183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2145c8295955aa990800000000000000
+      internalID: -7373987338968607726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a276118ef9d078eb0800000000000000
+      internalID: -4717787104202889430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09c10a6a5fa943f0800000000000000
+      internalID: -916008246332765941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11f7947ddb3211a0800000000000000
+      internalID: -6840339061692436196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac67df6bd69e810800000000000000
+      internalID: 1795086559187749604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28b4509c09472a10800000000000000
+      internalID: 1884555287387748394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19f6bf026c88b3a0800000000000000
+      internalID: -6649410497014204131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fbfbeb664e555c0800000000000000
+      internalID: -4227221545279307999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5623805317e9e490800000000000000
+      internalID: -7716382416381467046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_120
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24169931b850b9c20800000000000000
+      internalID: 3214168853946392898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0dcd117d7b7b090800000000000000
+      internalID: -8018738477164343125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea7321dcf76da30800000000000000
+      internalID: 4239716617966562889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_123
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562578417f85a29c0800000000000000
+      internalID: -3951247904839609755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_124
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5272b003c0fec9e70800000000000000
+      internalID: 9123429780770465573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da5f5d3da8bd8a30800000000000000
+      internalID: 4219231480114535126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_126
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6189d62a4aa775d0800000000000000
+      internalID: -3064793785946242706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_127
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd1ea9d822fed920800000000000000
+      internalID: 3017115057649491450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8d2b54af2c52400800000000000000
+      internalID: 298859330456967362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b2447ffab65e820800000000000000
+      internalID: 2946879934695746358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8f3e877d4d876f0800000000000000
+      internalID: -686564921262737198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d2eef7675b7f8b0800000000000000
+      internalID: -5118422930926195421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16826d4e1e005d30800000000000000
+      internalID: 4418046757760566813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_133
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed0f7ccd4dff7490800000000000000
+      internalID: -7746194323468775958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d79b57ce96aa90800000000000000
+      internalID: -7302975166662321733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_135
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedfbd27f09979ab0800000000000000
+      internalID: -5001360569541067282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf13c6eb75999760800000000000000
+      internalID: 7465162216728371123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_137
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ee33f6e7d95390800000000000000
+      internalID: -7828989090283461634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_138
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d2486cfa2780730800000000000000
+      internalID: 3965545571175116038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_139
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed849e92c296aa50800000000000000
+      internalID: 6532069674129329643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_140
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c90ece26c62e5900800000000000000
+      internalID: 675019626782788035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_141
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dbee2f72d87c820800000000000000
+      internalID: 2938472484601511225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_142
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41613d8df30e20e60800000000000000
+      internalID: 7927144858950768148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_143
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd44b1febb6f7010800000000000000
+      internalID: 1188787294492184059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6341ae9e8eb86fd20800000000000000
+      internalID: 3311988408450683958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caec898ad8ad4bd0800000000000000
+      internalID: -2644271749632562494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_146
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded18445139b16030800000000000000
+      internalID: 3486271208080023021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a952ddb150d4bd0800000000000000
+      internalID: -2644451788964128135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce408edad39c41370800000000000000
+      internalID: 8292474080643777772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_149
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25497c0b9f960a70800000000000000
+      internalID: 8792890810765493547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_150
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231e1b86db7cb7830800000000000000
+      internalID: 4070066304578609458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_151
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8584967b486d46740800000000000000
+      internalID: 5144472539865106520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_152
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed7fd166e88bcf30800000000000000
+      internalID: 4596918367727615466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_153
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11e8aa06918e4740800000000000000
+      internalID: 5138186706300231967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_154
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71ab9e496ada63f0800000000000000
+      internalID: -906672229136490116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_155
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e23108ed9015f50800000000000000
+      internalID: 6868281757952847453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_156
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52500d3e14b2d120800000000000000
+      internalID: 2437208390326309470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_157
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d70803795af78f0800000000000000
+      internalID: -540531361488798406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_158
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39130b9b175bd590800000000000000
+      internalID: -7648423766082250433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_159
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe929faad5197b4f0800000000000000
+      internalID: -813021376230643217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c8150ac6d06a10800000000000000
+      internalID: 1900755205907596588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082cbce2dd4570850800000000000000
+      internalID: 6343131909124244096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ff8665a4af43060800000000000000
+      internalID: 6932440923614281533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8fdc9dd7a46bb60800000000000000
+      internalID: 7761472912205150433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_164
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0272ace557be040800000000000000
+      internalID: 4677961687933329635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_165
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d218fc2b1c3774c0800000000000000
+      internalID: -4289894032630869287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_166
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb32a628431dcfc0800000000000000
+      internalID: -3473098537026044942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_167
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52891d0fce23ffd70800000000000000
+      internalID: 9079031367036147749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_168
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6dd4c64fefa2be0800000000000000
+      internalID: -1501107200032123227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_169
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ecc1257fddb7540800000000000000
+      internalID: 5006839465056718486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_170
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b135966a5577ec80800000000000000
+      internalID: -8293531157650918992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_171
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989613cfe0c4d8cb0800000000000000
+      internalID: -4860144795618547319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_172
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa62f6727c8f9e9b0800000000000000
+      internalID: -5050231972875524433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_173
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea50bb3b92382150800000000000000
+      internalID: 5847979758443322080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_174
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec729da5de5e4850800000000000000
+      internalID: 6363127595354193134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_175
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fe95e69c7aaba80800000000000000
+      internalID: -8450257267225661575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17540b63b3f7e2900800000000000000
+      internalID: 661606087567361393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be8f27d822e6d100800000000000000
+      internalID: 132541904090795701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e15662e74e6540800000000000000
+      internalID: 5003015273760023981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc33900c4a95f560800000000000000
+      internalID: 7346948018342673657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_180
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce511294a014f94a0800000000000000
+      internalID: -6584472617759992340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_181
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6938baaca50f03d30800000000000000
+      internalID: 4409288307933676438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_182
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db9f1b312ba899c0800000000000000
+      internalID: -3920195316411819053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_183
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb56cec04dffe5bf0800000000000000
+      internalID: -333548036163869249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_184
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f790759587da65c0800000000000000
+      internalID: -4221324731968612360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_185
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b464185490d50ea0800000000000000
+      internalID: -5907086000675068746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_186
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd35feae90f8d1c0800000000000000
+      internalID: -4478565265089151534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_187
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d64cedfbadac40800000000000000
+      internalID: 5525261424932608169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_188
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f5fe1bbac61a70800000000000000
+      internalID: 8797441827141973046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_189
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77c8d91ff16a9940800000000000000
+      internalID: 5303659259460372351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_190
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fbc6ad5a18710a0800000000000000
+      internalID: -6910912553842589797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_191
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef0f5ec2cf261b50800000000000000
+      internalID: 6563486020671573986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1eceed9a55de100800000000000000
+      internalID: 138861351596253611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6251d1f8326b828f0800000000000000
+      internalID: -565001489393838810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_194
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd195912174596270800000000000000
+      internalID: 8244213437749891551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_195
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b0b1f3e501871d0800000000000000
+      internalID: -3352911925605627105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_196
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7690e43505ab89cd0800000000000000
+      internalID: -2551084334747612825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_197
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9fd690e6fd20ad0800000000000000
+      internalID: -2737379959790241298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_198
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d530577fc1706d900800000000000000
+      internalID: 708761812349551453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_199
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957e0d982d4824530800000000000000
+      internalID: 3837775872263251801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_200
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1b1feb3cffe3bd0800000000000000
+      internalID: -2648398314660056618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_201
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7232803966d47c30800000000000000
+      internalID: 4356342486847861375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_202
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29779b631be0cde20800000000000000
+      internalID: 3376589974911154066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_203
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c4f8814f48db570800000000000000
+      internalID: 8484083456954813483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_204
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcd5303faf969b90800000000000000
+      internalID: -7235420176547193605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_205
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7ce9428af37c220800000000000000
+      internalID: 2506041709056411634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_206
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a572498bddc85b30800000000000000
+      internalID: 4276394188972651944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_207
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3abae889d2d1d70800000000000000
+      internalID: 9015412162317493211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8239f0e6efeca60a0800000000000000
+      internalID: -6887465087946222808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_209
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08379021271d62b40800000000000000
+      internalID: 5415245889818686336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_210
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c0837cef4bdd620800000000000000
+      internalID: 2800593549651348620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_211
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e00aaf8f7443380800000000000000
+      internalID: -8992483421269782919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_212
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ed3c78d0b12f540800000000000000
+      internalID: 5040120677907291805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_213
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b174c5cc5a151040800000000000000
+      internalID: 4617625978695610800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_214
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcc641cb0e6bc680800000000000000
+      internalID: -8733766055588606721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_215
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e587796bd0352e8b0800000000000000
+      internalID: -5124442107631142818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_216
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9505f9149bb2e40800000000000000
+      internalID: 5632799450453793199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_217
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35b4d00367587420800000000000000
+      internalID: 2627946465298003262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_218
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d86f88f7d7be6e50800000000000000
+      internalID: 6804578225219397843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_219
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aab9dd6e5deb6120800000000000000
+      internalID: 2408279415585356450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_220
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d259269d68ab3ab30800000000000000
+      internalID: 4297483557777085741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_221
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcf711a29041ac70800000000000000
+      internalID: 8980530130465586428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_222
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9725cd1ffbbd1b280800000000000000
+      internalID: -9029194160458149255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_223
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32b7410291b7ca10800000000000000
+      internalID: 1929706205996364347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0589e0bef9ee1b2c0800000000000000
+      internalID: -4417487388862932912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_225
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f557e84153558f0800000000000000
+      internalID: -552477016877342907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_226
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3fd8f66012b8270800000000000000
+      internalID: 8253727053611660207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_227
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e639769323961730800000000000000
+      internalID: 3969521902631335653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_228
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d07909906f1f460800000000000000
+      internalID: 7273865394121018685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_229
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73444d550d11830d0800000000000000
+      internalID: -3442982328633899977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_230
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a344a885ddc5970800000000000000
+      internalID: 8745107948793248339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_231
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f3a6f59399c0900800000000000000
+      internalID: 652064517754863362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_232
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8946c0a8cacc57c40800000000000000
+      internalID: 5509534760580179096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_233
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d96767f84dd2b70800000000000000
+      internalID: 8875984153250012501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_234
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d4b06c2b9033750800000000000000
+      internalID: 6283376568543432035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_235
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5195d3c07f9baaf0800000000000000
+      internalID: -384038036539338405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_236
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5fdb15271adbf70800000000000000
+      internalID: 9204690725784909251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_237
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b63c9c1ebbcdaf70800000000000000
+      internalID: 9200233631172015800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_238
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40ce74c394c5b140800000000000000
+      internalID: 4734906722185822287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_239
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35ca7758f80efed0800000000000000
+      internalID: -2378453690492467910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f0a82de0790e9e0800000000000000
+      internalID: -1594108178171555978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_241
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669213406be1817a0800000000000000
+      internalID: -6406336702831318682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_242
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08268aa6de7bc4df0800000000000000
+      internalID: -194578453559221632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_243
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab52332e713db00800000000000000
+      internalID: 852051014791313922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_244
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1860a8cf0fb9bd380800000000000000
+      internalID: -8945384775509997951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_245
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561883c32a8651900800000000000000
+      internalID: 654544366856601957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_246
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4b7cf3c56e24960800000000000000
+      internalID: 7584878006326768829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_247
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a38270be317ca20800000000000000
+      internalID: 3082454370116712991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_248
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6735cadf13f873410800000000000000
+      internalID: 1456790449349743478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_249
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c256d7ca44271170800000000000000
+      internalID: 8149021954349093570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_250
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19913f0b24a4b1ac0800000000000000
+      internalID: -3883428603379902063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_251
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d742171ee91880800000000000000
+      internalID: -8639612627275229563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_252
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145cde2d7926ad960800000000000000
+      internalID: 7627517323123737921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_253
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caf0f1630e2faba0800000000000000
+      internalID: -6075586780236547392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_254
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c93ab6f7b6c7a940800000000000000
+      internalID: 5307429179300133312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town 2 Color 3@128x128_255
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd40b5a1578c47370800000000000000
+      internalID: 8319494816939050203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Town 2 Color 3@128x128_68: -8879151023343241335
+      Town 2 Color 3@128x128_162: 6932440923614281533
+      Town 2 Color 3@128x128_5: 691473725808618257
+      Town 2 Color 3@128x128_42: -6668958128839313680
+      Town 2 Color 3@128x128_41: 469134373247222658
+      Town 2 Color 3@128x128_49: -772296140522016366
+      Town 2 Color 3@128x128_13: -7308474135960167043
+      Town 2 Color 3@128x128_189: 5303659259460372351
+      Town 2 Color 3@128x128_133: -7746194323468775958
+      Town 2 Color 3@128x128_60: -8184015123259610597
+      Town 2 Color 3@128x128_59: 6973520903436604665
+      Town 2 Color 3@128x128_150: 4070066304578609458
+      Town 2 Color 3@128x128_238: 4734906722185822287
+      Town 2 Color 3@128x128_81: 3448787156864398956
+      Town 2 Color 3@128x128_203: 8484083456954813483
+      Town 2 Color 3@128x128_199: 3837775872263251801
+      Town 2 Color 3@128x128_248: 1456790449349743478
+      Town 2 Color 3@128x128_180: -6584472617759992340
+      Town 2 Color 3@128x128_140: 675019626782788035
+      Town 2 Color 3@128x128_247: 3082454370116712991
+      Town 2 Color 3@128x128_20: 1085256491971826475
+      Town 2 Color 3@128x128_106: -3354032883792942357
+      Town 2 Color 3@128x128_52: 309965706235878357
+      Town 2 Color 3@128x128_47: -3881326333694383586
+      Town 2 Color 3@128x128_131: -5118422930926195421
+      Town 2 Color 3@128x128_163: 7761472912205150433
+      Town 2 Color 3@128x128_113: -916008246332765941
+      Town 2 Color 3@128x128_207: 9015412162317493211
+      Town 2 Color 3@128x128_252: 7627517323123737921
+      Town 2 Color 3@128x128_136: 7465162216728371123
+      Town 2 Color 3@128x128_144: 3311988408450683958
+      Town 2 Color 3@128x128_56: -5196124616414755385
+      Town 2 Color 3@128x128_83: 719846245410422525
+      Town 2 Color 3@128x128_235: -384038036539338405
+      Town 2 Color 3@128x128_99: -5900591558598697365
+      Town 2 Color 3@128x128_242: -194578453559221632
+      Town 2 Color 3@128x128_74: 5179507964545594798
+      Town 2 Color 3@128x128_79: -8787653616856975260
+      Town 2 Color 3@128x128_121: -8018738477164343125
+      Town 2 Color 3@128x128_165: -4289894032630869287
+      Town 2 Color 3@128x128_73: 3428576713383122144
+      Town 2 Color 3@128x128_75: -4296467079358301295
+      Town 2 Color 3@128x128_142: 7927144858950768148
+      Town 2 Color 3@128x128_172: -5050231972875524433
+      Town 2 Color 3@128x128_186: -4478565265089151534
+      Town 2 Color 3@128x128_114: -6840339061692436196
+      Town 2 Color 3@128x128_211: -8992483421269782919
+      Town 2 Color 3@128x128_38: -3382467206027440868
+      Town 2 Color 3@128x128_12: -426088280148241461
+      Town 2 Color 3@128x128_192: 138861351596253611
+      Town 2 Color 3@128x128_78: 4518010198172158611
+      Town 2 Color 3@128x128_216: 5632799450453793199
+      Town 2 Color 3@128x128_70: 3617661763578865658
+      Town 2 Color 3@128x128_219: 2408279415585356450
+      Town 2 Color 3@128x128_118: -4227221545279307999
+      Town 2 Color 3@128x128_188: 8797441827141973046
+      Town 2 Color 3@128x128_135: -5001360569541067282
+      Town 2 Color 3@128x128_239: -2378453690492467910
+      Town 2 Color 3@128x128_152: 4596918367727615466
+      Town 2 Color 3@128x128_204: -7235420176547193605
+      Town 2 Color 3@128x128_226: 8253727053611660207
+      Town 2 Color 3@128x128_66: -592239925478222135
+      Town 2 Color 3@128x128_198: 708761812349551453
+      Town 2 Color 3@128x128_45: 3590503202159194915
+      Town 2 Color 3@128x128_24: 2765820861507978615
+      Town 2 Color 3@128x128_179: 7346948018342673657
+      Town 2 Color 3@128x128_209: 5415245889818686336
+      Town 2 Color 3@128x128_58: -7915368006212459156
+      Town 2 Color 3@128x128_108: -4722532194059166572
+      Town 2 Color 3@128x128_123: -3951247904839609755
+      Town 2 Color 3@128x128_63: -6457949579672620385
+      Town 2 Color 3@128x128_202: 3376589974911154066
+      Town 2 Color 3@128x128_240: -1594108178171555978
+      Town 2 Color 3@128x128_10: 2060246116688992830
+      Town 2 Color 3@128x128_110: -7430694603697116183
+      Town 2 Color 3@128x128_26: 8127297987989244061
+      Town 2 Color 3@128x128_129: 2946879934695746358
+      Town 2 Color 3@128x128_62: -6951347779630502881
+      Town 2 Color 3@128x128_246: 7584878006326768829
+      Town 2 Color 3@128x128_67: -2103216871630752454
+      Town 2 Color 3@128x128_64: -2121027615417437698
+      Town 2 Color 3@128x128_101: 297598681266312241
+      Town 2 Color 3@128x128_53: -9007962791483747706
+      Town 2 Color 3@128x128_103: 2937056956439070359
+      Town 2 Color 3@128x128_164: 4677961687933329635
+      Town 2 Color 3@128x128_61: -2404287588957423683
+      Town 2 Color 3@128x128_176: 661606087567361393
+      Town 2 Color 3@128x128_197: -2737379959790241298
+      Town 2 Color 3@128x128_174: 6363127595354193134
+      Town 2 Color 3@128x128_2: 459805422601255729
+      Town 2 Color 3@128x128_104: 2655656220360567548
+      Town 2 Color 3@128x128_191: 6563486020671573986
+      Town 2 Color 3@128x128_227: 3969521902631335653
+      Town 2 Color 3@128x128_109: 8968075382180397036
+      Town 2 Color 3@128x128_138: 3965545571175116038
+      Town 2 Color 3@128x128_156: 2437208390326309470
+      Town 2 Color 3@128x128_147: -2644451788964128135
+      Town 2 Color 3@128x128_77: 3556094334840877662
+      Town 2 Color 3@128x128_21: 3887570277729901131
+      Town 2 Color 3@128x128_167: 9079031367036147749
+      Town 2 Color 3@128x128_97: -603038366545513339
+      Town 2 Color 3@128x128_145: -2644271749632562494
+      Town 2 Color 3@128x128_218: 6804578225219397843
+      Town 2 Color 3@128x128_6: 4228837929845379481
+      Town 2 Color 3@128x128_69: -41627608946205782
+      Town 2 Color 3@128x128_168: -1501107200032123227
+      Town 2 Color 3@128x128_183: -333548036163869249
+      Town 2 Color 3@128x128_187: 5525261424932608169
+      Town 2 Color 3@128x128_193: -565001489393838810
+      Town 2 Color 3@128x128_249: 8149021954349093570
+      Town 2 Color 3@128x128_245: 654544366856601957
+      Town 2 Color 3@128x128_84: 4377826199482074849
+      Town 2 Color 3@128x128_221: 8980530130465586428
+      Town 2 Color 3@128x128_44: -2978226824976892135
+      Town 2 Color 3@128x128_54: -7204623154830556859
+      Town 2 Color 3@128x128_195: -3352911925605627105
+      Town 2 Color 3@128x128_146: 3486271208080023021
+      Town 2 Color 3@128x128_92: 2988894734325601906
+      Town 2 Color 3@128x128_3: -4568237469092385132
+      Town 2 Color 3@128x128_171: -4860144795618547319
+      Town 2 Color 3@128x128_201: 4356342486847861375
+      Town 2 Color 3@128x128_119: -7716382416381467046
+      Town 2 Color 3@128x128_27: -4310369152303059468
+      Town 2 Color 3@128x128_213: 4617625978695610800
+      Town 2 Color 3@128x128_32: -8573906776511798222
+      Town 2 Color 3@128x128_229: -3442982328633899977
+      Town 2 Color 3@128x128_255: 8319494816939050203
+      Town 2 Color 3@128x128_232: 5509534760580179096
+      Town 2 Color 3@128x128_89: -464910927699091973
+      Town 2 Color 3@128x128_160: 1900755205907596588
+      Town 2 Color 3@128x128_35: -8616654690183212568
+      Town 2 Color 3@128x128_151: 5144472539865106520
+      Town 2 Color 3@128x128_139: 6532069674129329643
+      Town 2 Color 3@128x128_36: -2136951572025603399
+      Town 2 Color 3@128x128_37: -3971387496583797755
+      Town 2 Color 3@128x128_224: -4417487388862932912
+      Town 2 Color 3@128x128_82: 8685231663190442283
+      Town 2 Color 3@128x128_196: -2551084334747612825
+      Town 2 Color 3@128x128_154: -906672229136490116
+      Town 2 Color 3@128x128_230: 8745107948793248339
+      Town 2 Color 3@128x128_241: -6406336702831318682
+      Town 2 Color 3@128x128_250: -3883428603379902063
+      Town 2 Color 3@128x128_16: 2374634385451698489
+      Town 2 Color 3@128x128_55: -2782077044841328121
+      Town 2 Color 3@128x128_57: -1524168666624096001
+      Town 2 Color 3@128x128_7: 5256367024471077887
+      Town 2 Color 3@128x128_177: 132541904090795701
+      Town 2 Color 3@128x128_71: -3997665332164001351
+      Town 2 Color 3@128x128_98: 4373257495987651349
+      Town 2 Color 3@128x128_236: 9204690725784909251
+      Town 2 Color 3@128x128_126: -3064793785946242706
+      Town 2 Color 3@128x128_225: -552477016877342907
+      Town 2 Color 3@128x128_72: 2206568265259795491
+      Town 2 Color 3@128x128_95: 7161290586164737873
+      Town 2 Color 3@128x128_93: 9101432940835147933
+      Town 2 Color 3@128x128_134: -7302975166662321733
+      Town 2 Color 3@128x128_206: 4276394188972651944
+      Town 2 Color 3@128x128_208: -6887465087946222808
+      Town 2 Color 3@128x128_222: -9029194160458149255
+      Town 2 Color 3@128x128_175: -8450257267225661575
+      Town 2 Color 3@128x128_217: 2627946465298003262
+      Town 2 Color 3@128x128_148: 8292474080643777772
+      Town 2 Color 3@128x128_40: -5809349972806406865
+      Town 2 Color 3@128x128_122: 4239716617966562889
+      Town 2 Color 3@128x128_178: 5003015273760023981
+      Town 2 Color 3@128x128_149: 8792890810765493547
+      Town 2 Color 3@128x128_190: -6910912553842589797
+      Town 2 Color 3@128x128_4: -2017231199162781839
+      Town 2 Color 3@128x128_130: -686564921262737198
+      Town 2 Color 3@128x128_210: 2800593549651348620
+      Town 2 Color 3@128x128_173: 5847979758443322080
+      Town 2 Color 3@128x128_96: 5080908067115534839
+      Town 2 Color 3@128x128_220: 4297483557777085741
+      Town 2 Color 3@128x128_115: 1795086559187749604
+      Town 2 Color 3@128x128_102: 6643965766522396984
+      Town 2 Color 3@128x128_43: -5395895099556102927
+      Town 2 Color 3@128x128_85: -1579878603219287121
+      Town 2 Color 3@128x128_158: -7648423766082250433
+      Town 2 Color 3@128x128_169: 5006839465056718486
+      Town 2 Color 3@128x128_244: -8945384775509997951
+      Town 2 Color 3@128x128_233: 8875984153250012501
+      Town 2 Color 3@128x128_200: -2648398314660056618
+      Town 2 Color 3@128x128_1: 4851361349750209101
+      Town 2 Color 3@128x128_182: -3920195316411819053
+      Town 2 Color 3@128x128_18: 9221674931722351548
+      Town 2 Color 3@128x128_48: -3600479010450038746
+      Town 2 Color 3@128x128_153: 5138186706300231967
+      Town 2 Color 3@128x128_170: -8293531157650918992
+      Town 2 Color 3@128x128_90: 2218342730260785686
+      Town 2 Color 3@128x128_17: -1980654228851082899
+      Town 2 Color 3@128x128_31: -7364907414877026030
+      Town 2 Color 3@128x128_86: 5639698847977998760
+      Town 2 Color 3@128x128_214: -8733766055588606721
+      Town 2 Color 3@128x128_234: 6283376568543432035
+      Town 2 Color 3@128x128_29: -7719727826665388598
+      Town 2 Color 3@128x128_228: 7273865394121018685
+      Town 2 Color 3@128x128_159: -813021376230643217
+      Town 2 Color 3@128x128_50: -8034093696582061471
+      Town 2 Color 3@128x128_231: 652064517754863362
+      Town 2 Color 3@128x128_251: -8639612627275229563
+      Town 2 Color 3@128x128_15: 9211223981558707951
+      Town 2 Color 3@128x128_23: -1704793113431126092
+      Town 2 Color 3@128x128_253: -6075586780236547392
+      Town 2 Color 3@128x128_91: -8948228872517478147
+      Town 2 Color 3@128x128_39: 134853539901204314
+      Town 2 Color 3@128x128_30: -7382263688504273239
+      Town 2 Color 3@128x128_116: 1884555287387748394
+      Town 2 Color 3@128x128_107: -8448661149062130504
+      Town 2 Color 3@128x128_194: 8244213437749891551
+      Town 2 Color 3@128x128_65: -5008486719639789125
+      Town 2 Color 3@128x128_223: 1929706205996364347
+      Town 2 Color 3@128x128_34: 5140966183313644734
+      Town 2 Color 3@128x128_22: -1126214699443466815
+      Town 2 Color 3@128x128_94: -9085825628647974360
+      Town 2 Color 3@128x128_254: 5307429179300133312
+      Town 2 Color 3@128x128_212: 5040120677907291805
+      Town 2 Color 3@128x128_185: -5907086000675068746
+      Town 2 Color 3@128x128_137: -7828989090283461634
+      Town 2 Color 3@128x128_161: 6343131909124244096
+      Town 2 Color 3@128x128_19: 5144254642282757156
+      Town 2 Color 3@128x128_76: 8098297096032845844
+      Town 2 Color 3@128x128_215: -5124442107631142818
+      Town 2 Color 3@128x128_128: 298859330456967362
+      Town 2 Color 3@128x128_33: -5987256259459518634
+      Town 2 Color 3@128x128_105: -6849753265223982374
+      Town 2 Color 3@128x128_80: 1476256455202056174
+      Town 2 Color 3@128x128_184: -4221324731968612360
+      Town 2 Color 3@128x128_124: 9123429780770465573
+      Town 2 Color 3@128x128_120: 3214168853946392898
+      Town 2 Color 3@128x128_143: 1188787294492184059
+      Town 2 Color 3@128x128_111: -7373987338968607726
+      Town 2 Color 3@128x128_132: 4418046757760566813
+      Town 2 Color 3@128x128_9: -7288731205584613587
+      Town 2 Color 3@128x128_141: 2938472484601511225
+      Town 2 Color 3@128x128_117: -6649410497014204131
+      Town 2 Color 3@128x128_0: -2466362455170470991
+      Town 2 Color 3@128x128_88: 477314895373808657
+      Town 2 Color 3@128x128_100: -7269050615168454056
+      Town 2 Color 3@128x128_125: 4219231480114535126
+      Town 2 Color 3@128x128_237: 9200233631172015800
+      Town 2 Color 3@128x128_14: -8046785387417089495
+      Town 2 Color 3@128x128_46: 5316333422895620845
+      Town 2 Color 3@128x128_112: -4717787104202889430
+      Town 2 Color 3@128x128_181: 4409288307933676438
+      Town 2 Color 3@128x128_157: -540531361488798406
+      Town 2 Color 3@128x128_205: 2506041709056411634
+      Town 2 Color 3@128x128_127: 3017115057649491450
+      Town 2 Color 3@128x128_8: 224256458568097966
+      Town 2 Color 3@128x128_87: -1609645630854564708
+      Town 2 Color 3@128x128_155: 6868281757952847453
+      Town 2 Color 3@128x128_28: 8484323918669135198
+      Town 2 Color 3@128x128_25: 4922251076206207500
+      Town 2 Color 3@128x128_166: -3473098537026044942
+      Town 2 Color 3@128x128_11: -8960418816940075053
+      Town 2 Color 3@128x128_243: 852051014791313922
+      Town 2 Color 3@128x128_51: -7082472331891197000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
